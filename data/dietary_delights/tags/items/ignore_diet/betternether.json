@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "betternether:agave_medicine",
+            "required": false
+        },
+        {
+            "id": "betternether:herbal_medicine",
+            "required": false
+        },
+        {
+            "id": "betternether:stalagnate_bowl_wart",
+            "required": false
+        }
+    ]
+}
