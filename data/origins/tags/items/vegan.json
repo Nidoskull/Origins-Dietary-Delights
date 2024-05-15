@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-      "#dietary_delights:vegan/minecraft"
+      "#dietary_delights:vegan/minecraft",
+      "#dietary_delights:vegan/alaska_native_craft"
     ]
 }

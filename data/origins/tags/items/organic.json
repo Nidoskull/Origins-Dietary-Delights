@@ -2,6 +2,9 @@
     "replace": false,
     "values": [
       "#dietary_delights:organic/minecraft",
+      "#dietary_delights:organic/alaska_native_craft",
+      "#dietary_delights:organic/anthropophagy",
+      "#dietary_delights:organic/better_animals_plus",
       "#dietary_delights:organic/midas_hunger"
     ]
   }

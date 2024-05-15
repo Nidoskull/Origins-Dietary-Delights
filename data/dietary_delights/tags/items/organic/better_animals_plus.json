@@ -1,0 +1,61 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#betteranimalsplus:cooked_eggs",
+            "required": false
+        },
+        {
+            "id": "betteranimalsplus:blubber",
+            "required": false
+        },
+        {
+            "id": "betteranimalsplus:venisonraw",
+            "required": false
+        },
+        {
+            "id": "betteranimalsplus:venisoncooked",
+            "required": false
+        },
+        {
+            "id": "betteranimalsplus:pheasantraw",
+            "required": false
+        },
+        {
+            "id": "betteranimalsplus:pheasantcooked",
+            "required": false
+        },
+        {
+            "id": "betteranimalsplus:crab_meat_raw",
+            "required": false
+        },
+        {
+            "id": "betteranimalsplus:crab_meat_cooked",
+            "required": false
+        },
+        {
+            "id": "betteranimalsplus:turkey_leg_raw",
+            "required": false
+        },
+        {
+            "id": "betteranimalsplus:turkey_leg_cooked",
+            "required": false
+        },
+        {
+            "id": "betteranimalsplus:eel_meat_raw",
+            "required": false
+        },
+        {
+            "id": "betteranimalsplus:eel_meat_cooked",
+            "required": false
+        },
+        {
+            "id": "betteranimalsplus:calamari_raw",
+            "required": false
+        },
+        {
+            "id": "betteranimalsplus:calamari_cooked",
+            "required": false
+        }
+    ]
+}

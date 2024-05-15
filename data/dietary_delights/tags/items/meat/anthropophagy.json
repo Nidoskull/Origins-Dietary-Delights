@@ -6,15 +6,7 @@
 			"required": false
 		},
 		{
-			"id": "anthropophagy:cooked_flesh",
-			"required": false
-		},
-		{
-			"id": "anthropophagy:corrupt_flesh",
-			"required": false
-		},
-		{
-			"id": "anthropophagy:flesh",
+			"id": "anthropophagy:piglutton_heart",
 			"required": false
 		}
     ]

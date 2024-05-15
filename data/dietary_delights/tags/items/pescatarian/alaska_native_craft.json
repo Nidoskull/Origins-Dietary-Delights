@@ -8,6 +8,10 @@
 		{
 			"id": "alaskanativecraft:dry_fish",
 			"required": false
+		},
+		{
+			"id": "alaskanativecraft:muktuk",
+			"required": false
 		}
 	]
 }

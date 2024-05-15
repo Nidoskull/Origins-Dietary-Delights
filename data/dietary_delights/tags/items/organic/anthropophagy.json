@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+		{
+			"id": "#anthropophagy:flesh",
+			"required": false
+		},
+		{
+			"id": "anthropophagy:piglutton_heart",
+			"required": false
+		}
+    ]
+}
