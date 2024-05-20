@@ -6,10 +6,6 @@
 
 **Dietary Delights** extends and refines the functionality of LuaDotExe's "We Have the Meats" by expanding compatibility between the Origins mod and a comprehensive list of other food-related mods. This pack introduces detailed item tags for various diets, facilitating the creation of unique Origin traits based on dietary preferences and restrictions.
 
-## Download
-
-You can download the latest version of the datapack here: [Dietary Delights on Modrinth](https://modrinth.com/datapack/origins-dietary-delights)
-
 ## Target Audience
 
 This pack is designed primarily for developers looking to enhance or create custom Origins with specific dietary needs. It is also beneficial for those in the modding community looking to standardize dietary tags across various mods.
