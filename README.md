@@ -7,20 +7,18 @@
 **Dietary Delights** extends and refines the functionality of LuaDotExe's "We Have the Meats" by expanding compatibility between the Origins mod and a comprehensive list of other food-related mods. This pack introduces detailed item tags for various diets, facilitating the creation of unique Origin traits based on dietary preferences and restrictions.
 
 ## Target Audience
-
 This pack is designed primarily for developers looking to enhance or create custom Origins with specific dietary needs. It is also beneficial for those in the modding community looking to standardize dietary tags across various mods.
 
 ## Key Features
-
 - **Expanded Meat Category:** Incorporates modded items into the 'meat' category, ensuring compatibility with Origins’ dietary systems.
 - **New Dietary Tags:** Introduces categories like **Ketogenic**, **Organic**, **Vegan**, **Pescatarian**, and **Vegetarian**, allowing for the creation of Origins with unique dietary-based abilities or restrictions.
 
 ## Supported Mods
-
 Dietary Delights works with the following mods:
+- (Let's Do) Bakery
+- AdventureZ
 - Alaska Native Craft
 - Anthropophagy
-- AdventureZ
 - Autovw's Burger Mod/Burger Mod Fabricated
 - Better Animals Plus
 - Better Nether
@@ -31,7 +29,6 @@ Dietary Delights works with the following mods:
 - Cultural Delights
 - Ecologics
 - Expanded Delight
-- Vegan Delight
 - Farmer's Delight
 - Farmer's Respite
 - Fish of Thieves
@@ -42,9 +39,14 @@ Dietary Delights works with the following mods:
 - Naturalist
 - Nether Depths Upgrade
 - Nether's Delight
+- Ocean's Delight
 - Promenade
+- Quality Crops
+- Quality's Delight
+- Silent's Delight
 - Twilight Forest
 - ValleyCraft
+- Vegan Delight
 
 ## Implementation Guide
 
