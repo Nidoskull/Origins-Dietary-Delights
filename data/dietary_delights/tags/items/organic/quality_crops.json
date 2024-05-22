@@ -1,0 +1,497 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "qualitycrops:dough_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:dough_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:dough_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:tropical_fish_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:tropical_fish_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:tropical_fish_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:egg_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:egg_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:egg_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:sugar_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:sugar_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:sugar_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:bread_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:bread_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:bread_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:baked_potato_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:baked_potato_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:baked_potato_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:beetroot_soup_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:beetroot_soup_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:beetroot_soup_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cod_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cod_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cod_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:salmon_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:salmon_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:salmon_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_cod_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_cod_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_cod_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_salmon_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_salmon_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_salmon_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:mushroom_stew_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:mushroom_stew_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:mushroom_stew_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:rabbit_stew_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:rabbit_stew_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:rabbit_stew_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:beef_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:beef_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:beef_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:chicken_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:chicken_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:chicken_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:rabbit_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:rabbit_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:rabbit_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:mutton_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:mutton_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:mutton_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:porkchop_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:porkchop_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:porkchop_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_beef_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_beef_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_beef_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_chicken_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_chicken_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_chicken_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_rabbit_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_rabbit_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_rabbit_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_mutton_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_mutton_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_mutton_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_porkchop_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_porkchop_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cooked_porkchop_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:apple_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:apple_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:apple_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cookie_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cookie_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cookie_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:melon_slice_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:melon_slice_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:melon_slice_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:dried_kelp_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:dried_kelp_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:dried_kelp_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:pumpkin_pie_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:pumpkin_pie_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:pumpkin_pie_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:poisonous_potato_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:poisonous_potato_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:poisonous_potato_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:pufferfish_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:pufferfish_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:pufferfish_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:wheat_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:wheat_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:wheat_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:sugar_cane_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:sugar_cane_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:sugar_cane_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:red_mushroom_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:red_mushroom_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:red_mushroom_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:brown_mushroom_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:brown_mushroom_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:brown_mushroom_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:kelp_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:kelp_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:kelp_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cocoa_beans_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cocoa_beans_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:cocoa_beans_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:carrot_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:carrot_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:carrot_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:potato_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:potato_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:potato_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:beetroot_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:beetroot_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:beetroot_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:sweet_berries_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:sweet_berries_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:sweet_berries_diamond",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:glow_berries_iron",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:glow_berries_gold",
+            "required": false
+        },
+        {
+            "id": "qualitycrops:glow_berries_diamond",
+            "required": false
+        }
+    ]
+}
