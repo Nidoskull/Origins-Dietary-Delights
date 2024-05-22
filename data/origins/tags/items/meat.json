@@ -1,7 +1,7 @@
 {
 	"replace":false,
 	"values":[
-	   "#dietary_delights:meat/minecraft",
+	   "#dietary_delights:meat/adventurez",
 	   "#dietary_delights:meat/alaska_native_craft",
 	   "#dietary_delights:meat/anthropophagy",
 	   "#dietary_delights:meat/better_animals_plus",
@@ -20,6 +20,8 @@
 	   "#dietary_delights:meat/golden_steak",
 	   "#dietary_delights:meat/kfa",
 	   "#dietary_delights:meat/midas_hunger",
+	   "#dietary_delights:meat/minecraft",
+	   "#dietary_delights:meat/naturalist",
 	   "#dietary_delights:meat/nethers_delight",
 	   "#dietary_delights:meat/nether_depths_upgrade",
 	   "#dietary_delights:meat/promenade",

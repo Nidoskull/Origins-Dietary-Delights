@@ -20,6 +20,7 @@ This pack is designed primarily for developers looking to enhance or create cust
 Dietary Delights works with the following mods:
 - Alaska Native Craft
 - Anthropophagy
+- AdventureZ
 - Autovw's Burger Mod/Burger Mod Fabricated
 - Better Animals Plus
 - Better Nether
@@ -30,6 +31,7 @@ Dietary Delights works with the following mods:
 - Cultural Delights
 - Ecologics
 - Expanded Delight
+- Vegan Delight
 - Farmer's Delight
 - Farmer's Respite
 - Fish of Thieves
@@ -37,6 +39,7 @@ Dietary Delights works with the following mods:
 - Golden Steak
 - Kentucky Fried Axolotls (KFA)
 - Midas Hunger
+- Naturalist
 - Nether Depths Upgrade
 - Nether's Delight
 - Promenade

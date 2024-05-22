@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values": [
+		{
+			"id": "promenade:banana",
+			"required": false
+		},
+		{
+			"id": "promenade:blueberries",
+			"required": false
+		},
+        {
+			"id": "promenade:maple_syrup_bottle",
+			"required": false
+		},
+        {
+			"id": "promenade:duck",
+			"required": false
+		},
+        {
+			"id": "promenade:cooked_duck",
+			"required": false
+		}
+    ]
+}

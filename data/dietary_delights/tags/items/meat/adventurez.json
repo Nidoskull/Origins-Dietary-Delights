@@ -1,0 +1,53 @@
+{
+    "replace": false,
+    "values": [
+		{
+			"id": "adventurez:mammoth_meat",
+			"required": false
+		},
+		{
+			"id": "adventurez:cooked_mammoth_meat",
+			"required": false
+		},
+        {
+			"id": "adventurez:iguana_meat",
+			"required": false
+		},
+        {
+			"id": "adventurez:cooked_iguana_meat",
+			"required": false
+		},
+        {
+			"id": "adventurez:ender_whale_meat",
+			"required": false
+		},
+        {
+			"id": "adventurez:cooked_ender_whale_meat",
+			"required": false
+		},
+        {
+			"id": "adventurez:rhino_meat",
+			"required": false
+		},
+        {
+			"id": "adventurez:cooked_rhino_meat",
+			"required": false
+		},
+        {
+			"id": "adventurez:raw_venison",
+			"required": false
+		},
+        {
+			"id": "adventurez:cooked_venison",
+			"required": false
+		},
+        {
+			"id": "adventurez:warthog_meat",
+			"required": false
+		},
+        {
+			"id": "adventurez:cooked_warthog_meat",
+			"required": false
+		}
+    ]
+}

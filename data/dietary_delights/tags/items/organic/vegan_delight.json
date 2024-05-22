@@ -1,0 +1,93 @@
+{
+	"replace": false,
+	"values": [
+        {
+            "id": "vegandelight:silken_tofu",
+            "required": false
+        },
+        {
+            "id": "vegandelight:tofu",
+            "required": false
+        },
+        {
+            "id": "vegandelight:tofu_slices",
+            "required": false
+        },
+        {
+            "id": "vegandelight:cooked_tofu",
+            "required": false
+        },
+        {
+            "id": "vegandelight:cooked_tofu_slices",
+            "required": false
+        },
+        {
+            "id": "vegandelight:smoked_tofu",
+            "required": false
+        },
+        {
+            "id": "vegandelight:smoked_tofu_slices",
+            "required": false
+        },
+        {
+            "id": "vegandelight:cooked_smoked_tofu",
+            "required": false
+        },
+        {
+            "id": "vegandelight:cooked_smoked_tofu_slices",
+            "required": false
+        },
+        {
+            "id": "vegandelight:minced_tofu",
+            "required": false
+        },
+        {
+            "id": "vegandelight:tofu_patty",
+            "required": false
+        },
+        {
+            "id": "vegandelight:tofish",
+            "required": false
+        },
+        {
+            "id": "vegandelight:cooked_tofish",
+            "required": false
+        },
+        {
+            "id": "vegandelight:smoked_tofish",
+            "required": false
+        },
+        {
+            "id": "vegandelight:cooked_smoked_tofish",
+            "required": false
+        },
+        {
+            "id": "vegandelight:tofish_roll",
+            "required": false
+        },
+        {
+            "id": "vegandelight:smoked_tofish_roll",
+            "required": false
+        },
+        {
+            "id": "vegandelight:soymilk_bucket",
+            "required": false
+        },
+        {
+            "id": "vegandelight:soymilk_bottle",
+            "required": false
+        },
+        {
+            "id": "vegandelight:soybean",
+            "required": false
+        },
+        {
+            "id": "vegandelight:applesauce",
+            "required": false
+        },
+        {
+            "id": "vegandelight:applesauce_bucket",
+            "required": false
+        }
+	]
+}
