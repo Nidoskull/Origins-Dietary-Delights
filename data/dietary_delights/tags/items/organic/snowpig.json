@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+		{
+			"id": "snowpig:frozen_ham",
+			"required": false
+		},
+		{
+			"id": "snowpig:frozen_porkchop",
+			"required": false
+		}
+    ]
+}

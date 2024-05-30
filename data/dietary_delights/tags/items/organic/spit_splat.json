@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+		{
+			"id": "splat:raw_spit_splat",
+			"required": false
+		},
+		{
+			"id": "splat:cooked_spit_splat",
+			"required": false
+		}
+    ]
+}

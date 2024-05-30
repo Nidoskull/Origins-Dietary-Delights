@@ -1,0 +1,41 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "born_in_chaos_v1:smoked_flesh",
+            "required": false
+        },
+        {
+            "id": "born_in_chaos_v1:monster_flesh",
+            "required": false
+        },
+        {
+            "id": "born_in_chaos_v1:smoked_monster_flesh",
+            "required": false
+        },
+        {
+            "id": "born_in_chaos_v1:rotten_fish",
+            "required": false
+        },
+        {
+            "id": "born_in_chaos_v1:smoked_fish",
+            "required": false
+        },
+        {
+            "id": "born_in_chaos_v1:sea_terror_eye",
+            "required": false
+        },
+        {
+            "id": "born_in_chaos_v1:bloody_gadfly_eye",
+            "required": false
+        },
+        {
+            "id": "born_in_chaos_v1:corpse_maggot",
+            "required": false
+        },
+        {
+            "id": "born_in_chaos_v1:fried_maggot",
+            "required": false
+        }
+    ]
+}

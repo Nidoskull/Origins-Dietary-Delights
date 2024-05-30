@@ -1,0 +1,53 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "aquaculturedelight:raw_fish_fillet_roll",
+            "required": false
+        },
+        {
+            "id": "aquaculturedelight:poor_fisher_chowder",
+            "required": false
+        },
+        {
+            "id": "aquaculturedelight:bass_stew",
+            "required": false
+        },
+        {
+            "id": "aquaculturedelight:unusual_fish_soup",
+            "required": false
+        },
+        {
+            "id": "aquaculturedelight:halaszle",
+            "required": false
+        },
+        {
+            "id": "aquaculturedelight:large_fish_with_vegetables",
+            "required": false
+        },
+        {
+            "id": "aquaculturedelight:baked_pollock_with_carrots",
+            "required": false
+        },
+        {
+            "id": "aquaculturedelight:buckling",
+            "required": false
+        },
+        {
+            "id": "aquaculturedelight:tuna_spaghetti",
+            "required": false
+        },
+        {
+            "id": "aquaculturedelight:rollmops",
+            "required": false
+        },
+        {
+            "id": "aquaculturedelight:catfish_barbecue",
+            "required": false
+        },
+        {
+            "id": "aquaculturedelight:halibut_with_tartar_sauce",
+            "required": false
+        }
+    ]
+}

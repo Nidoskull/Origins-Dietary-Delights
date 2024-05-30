@@ -15,38 +15,45 @@ This pack is designed primarily for developers looking to enhance or create cust
 
 ## Supported Mods
 Dietary Delights works with the following mods:
-- (Let's Do) Bakery
-- AdventureZ
-- Alaska Native Craft
-- Anthropophagy
-- Autovw's Burger Mod/Burger Mod Fabricated
-- Better Animals Plus
-- Better Nether
-- Chest Cavity
-- Chirpy's Wildlife
-- Corn Delight
-- Croptopia
-- Cultural Delights
-- Ecologics
-- Expanded Delight
-- Farmer's Delight
-- Farmer's Respite
-- Fish of Thieves
-- Food+
-- Golden Steak
-- Kentucky Fried Axolotls (KFA)
-- Midas Hunger
-- Naturalist
-- Nether Depths Upgrade
-- Nether's Delight
-- Ocean's Delight
-- Promenade
-- Quality Crops
-- Quality's Delight
-- Silent's Delight
-- Twilight Forest
-- ValleyCraft
-- Vegan Delight
+
+1. AdventureZ
+2. Alaska Native Craft
+3. Anthropophagy
+4. Aquaculture Delight
+5. Autovw's Burger Mod/Burger Mod Fabricated
+6. Better Animals Plus
+7. Better Nether
+8. Born In Chaos
+9. Chest Cavity
+10. Chirpy's Wildlife
+11. Corn Delight
+12. Croptopia
+13. Cultural Delights
+14. Ecologics
+15. Expanded Delight
+16. Farmer's Delight
+17. Farmer's Respite
+18. Fish of Thieves
+19. Food+
+20. Golden Steak
+21. Jellyfishing
+22. Kentucky Fried Axolotls (KFA)
+23. Midas Hunger
+24. Naturalist
+25. Nether Depths Upgrade
+26. Nether's Delight
+27. Ocean's Delight
+28. Promenade
+29. Quality Crops
+30. Quality's Delight
+31. Silent's Delight
+32. Snowpig
+33. Spit Splat
+34. Twilight Forest
+35. ValleyCraft
+36. Vegan Delight
+37. (Let's Do) Bakery
+38. (Let's Do) Vinery
 
 ## Implementation Guide
 
