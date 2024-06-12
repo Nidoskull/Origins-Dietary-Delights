@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+		{
+			"id": "vampirism:garlic_bread",
+			"required": false
+		},
+		{
+			"id": "vampirism:human_heart",
+			"required": false
+		},
+        {
+			"id": "vampirism:weak_human_heart",
+			"required": false
+		}
+    ]
+}
