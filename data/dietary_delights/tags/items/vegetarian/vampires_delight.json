@@ -1,0 +1,89 @@
+{
+    "replace": true,
+    "values": [
+        {
+            "id": "vampiresdelight:grilled_garlic",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:orchid_tea",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:sugared_berries",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:rice_dough",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:rice_bread",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:heart_pieces",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:orchid_cookie",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:orchid_eclair",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:orchid_ice_cream",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:tricolor_dango",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:cursed_cupcake",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:dark_ice_cream",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:snow_white_ice_cream",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:bagel_sandwich",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:hardtack",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:orchid_cream_soup",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:black_mushroom_soup",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:garlic_soup",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:borscht",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:orchid_curry",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:orchid_cake_slice",
+            "required": false
+        }
+    ]
+}

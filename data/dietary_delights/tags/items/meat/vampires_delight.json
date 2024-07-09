@@ -1,0 +1,41 @@
+{
+    "replace": true,
+    "values": [
+        {
+            "id": "vampiresdelight:raw_bat",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:raw_bat_chops",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:cooked_bat",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:cooked_bat_chops",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:eyes_on_stick",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:eye_croissant",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:blood_sausage",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:blood_hot_dog",
+            "required": false
+        },
+        {
+            "id": "vampiresdelight:bat_taco",
+            "required": false
+        }
+    ]
+}
