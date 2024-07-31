@@ -1,0 +1,29 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "unusual_delight:salmon_slice",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:cosmic_cod_slice",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:cut_flying_fish",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:cooked_cut_flying_fish",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:cut_lost_tentacle",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:roast_tentacle",
+			"required": false
+		}
+	]
+}

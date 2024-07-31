@@ -1,0 +1,241 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "unusual_delight:dried_berry",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:coated_berry",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:blazing_apple",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:slime_toffee_apple",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:amethyst_apple",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:chorus_honey_apple",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:enchanted_honeycomb",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:magic_butter",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:carrotmite",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:starry_jam",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:glowapple",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:glow_golden_apple",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:starry_sandwich",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:sculk_pudding",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:glowing_nectar",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:apple_juice",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:golden_apple_juice",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:enchanted_golden_apple_juice",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:melon_juice",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:soda",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:cane_syrup",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:blazing_ale",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:shroomlight_slice",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:golden_shroomlight_slice",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:pumpkin_bread",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:pumpkin_mousse_bowl",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:sculk_cookie",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:glow_berry_cookie",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:cherry_blossom_cookie",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:clover_cookie",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:lapis_cookie",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:shroomlight_cookie",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:slime_cookie",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:candied_slime_cookie",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:soul_sand_cookie",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:diced_cactus",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:diced_torchflower",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:diced_pitcher_plant",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:crimson_bread",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:creamcoated_bread",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:slimecoated_bread",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:moldy_bread",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:seeking_bread",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:glow_ink_bread",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:ink_bread",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:plain_cookie",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:wartcookie",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:pop_shroomlight",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:popsiclime",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:iceberg_cookie",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:icy_bread",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:flake_fry",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:popice",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:frozen_apple",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:cold_pudding",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:frostsugar",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:iced_macarong",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:sculk_candy",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:everwatch_ice_cream",
+			"required": false
+		}
+	]
+}

@@ -57,6 +57,7 @@ Dietary Delights works with the following mods:
 39. Vampirism
 40. Vampire's Delight
 41. Brewin' And Chewin'
+42. Unusual Delight (Hostile Delight)
 
 ## Implementation Guide
 

@@ -1,0 +1,89 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "unusual_delight:raw_mite_meat",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:cooked_mite_meat",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:raw_sniffer_meat",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:cooked_sniffer_meat",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:raw_zork_chop",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:cooked_zorkchop",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:zombified_bacon",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:cooked_zombified_bacon",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:rotten_ham",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:cooked_rotten_ham",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:zombiezerky",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:rotten_sausage",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:raw_phantom_meat",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:cooked_phantom_meat",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:frozen_ham",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:frozen_flesh",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:raw_sniffer_meat",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:dragon_chunk",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:fire_dragon_chunk",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:ice_dragon_chunk",
+			"required": false
+		},
+		{
+			"id": "unusual_delight:lightning_dragon_chunk",
+			"required": false
+		}
+	]
+}
