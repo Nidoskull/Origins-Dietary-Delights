@@ -16,15 +16,15 @@ This pack is designed primarily for developers looking to enhance or create cust
 ## Supported Mods
 Dietary Delights works with the following mods:
 
-1. AdventureZ
-2. Alaska Native Craft
-3. Anthropophagy
-4. Aquaculture Delight
-5. Autovw's Burger Mod/Burger Mod Fabricated
-6. Better Animals Plus
-7. Better Nether
-8. Born In Chaos
-9. Chest Cavity
+01. AdventureZ
+02. Alaska Native Craft
+03. Anthropophagy
+04. Aquaculture Delight
+05. Autovw's Burger Mod/Burger Mod Fabricated
+06. Better Animals Plus
+07. Better Nether
+08. Born In Chaos
+09. Chest Cavity
 10. Chirpy's Wildlife
 11. Corn Delight
 12. Croptopia
