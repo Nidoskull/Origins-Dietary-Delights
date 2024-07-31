@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
+      "#dietary_delights:vegetarian/brewin_and_chewin",
       "#dietary_delights:vegetarian/minecraft",
       "#dietary_delights:vegetarian/vampires_delight"
     ]
