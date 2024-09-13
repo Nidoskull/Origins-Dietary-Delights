@@ -1,19 +1,61 @@
 {
-    "replace": false,
-    "values": [
-      "#minecraft:fishes",
-      "minecraft:rotten_flesh",
-      "minecraft:beef",
-      "minecraft:porkchop",
-      "minecraft:mutton",
-      "minecraft:chicken",
-      "minecraft:rabbit",
-      "minecraft:cooked_chicken",
-      "minecraft:cooked_rabbit",
-      "minecraft:rabbit_stew",
-      "minecraft:cooked_porkchop",
-      "minecraft:cooked_beef",
-      "minecraft:cooked_mutton",
-      "minecraft:spider_eye"
-    ]
-  }
+	"replace": false,
+	"values": [
+		{
+			"id": "#minecraft:meat",
+			"required": false
+		},
+		{
+			"id": "minecraft:rotten_flesh",
+			"required": false
+		},
+		{
+			"id": "minecraft:beef",
+			"required": false
+		},
+		{
+			"id": "minecraft:porkchop",
+			"required": false
+		},
+		{
+			"id": "minecraft:mutton",
+			"required": false
+		},
+		{
+			"id": "minecraft:chicken",
+			"required": false
+		},
+		{
+			"id": "minecraft:rabbit",
+			"required": false
+		},
+		{
+			"id": "minecraft:cooked_chicken",
+			"required": false
+		},
+		{
+			"id": "minecraft:cooked_rabbit",
+			"required": false
+		},
+		{
+			"id": "minecraft:rabbit_stew",
+			"required": false
+		},
+		{
+			"id": "minecraft:cooked_porkchop",
+			"required": false
+		},
+		{
+			"id": "minecraft:cooked_beef",
+			"required": false
+		},
+		{
+			"id": "minecraft:cooked_mutton",
+			"required": false
+		},
+		{
+			"id": "minecraft:spider_eye",
+			"required": false
+		}
+	]
+}
