@@ -1,0 +1,57 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "pamhc2foodcore:butteritem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:cheeseitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:creamitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:mayonnaiseitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:boiledeggitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:friedeggitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:scrambledeggitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:chickenjerkyitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:beefjerkyitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:porkjerkyitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:baconandeggsitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:epicbaconitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:chocolatebaconitem",
+            "required": false
+        }
+    ]
+}
