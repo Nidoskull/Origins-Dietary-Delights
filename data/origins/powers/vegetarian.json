@@ -19,7 +19,14 @@
                 "tag":"origins:ignore_diet"
              },
              "inverted":true
-          }
+          },
+          {
+            "type":"origins:ingredient",
+            "ingredient":{
+               "tag":"c:egg"
+            },
+            "inverted":true
+         }
        ]
     }
 }
