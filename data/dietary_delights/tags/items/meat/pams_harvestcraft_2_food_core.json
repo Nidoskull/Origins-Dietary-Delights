@@ -1,0 +1,141 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "pamhc2foodcore:grilledcheeseandhamitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:friedchickenitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:groundchickenitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:cookedgroundchickenitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:chickennuggetitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:basicchickensandwichitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:chickenjerkyitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:groundbeefitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:cookedgroundbeefitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:basiccheeseburgeritem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:baconcheeseburgeritem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:beefjerkyitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:groundporkitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:cookedgroundporkitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:baconandeggsitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:epicbaconitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:groundfishitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:cookedgroundfishitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:fishsticksitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:fishjerkyitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:groundmuttonitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:cookedgroundmuttonitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:groundrabbititem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:cookedgroundrabbititem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:rabbitjerkyitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:meatloafitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:cheeseitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:butteritem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:creamitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:mayonnaiseitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:yogurtitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:boiledeggitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:friedeggitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:scrambledeggitem",
+            "required": false
+        }
+    ]
+}
