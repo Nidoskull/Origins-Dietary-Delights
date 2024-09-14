@@ -1,0 +1,41 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "pamhc2foodcore:groundfishitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:cookedgroundfishitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:fishsticksitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:basicfishsandwichitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:fishjerkyitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:fishandchipsitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:fishpotpieitem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:grilledfishskeweritem",
+            "required": false
+        },
+        {
+            "id": "pamhc2foodcore:fishnoodlesoupitem",
+            "required": false
+        }
+    ]
+}
