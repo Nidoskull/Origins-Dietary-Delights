@@ -1,0 +1,141 @@
+{
+   "replace": false,
+   "values": [
+      {
+         "id": "pamhc2foodcore:toastitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:carrotbreaditem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:pumpkinbreaditem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:applepieitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:sweetberrypieitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:glowberrypieitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:carrotpieitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:choruspieitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:carrotcakeitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:applemuffinitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:melonmuffinitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:sweetberrymuffinitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:glowberrymuffinitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:carrotdonutitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:pumpkindonutitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:softpretzelitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:applejuiceitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:applesmoothieitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:applepopsicleitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:melonjuiceitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:melonsmoothieitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:melonpopsicleitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:sweetberryjuiceitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:sweetberrysmoothieitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:sweetberrypopsicleitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:glowberryjuiceitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:glowberrysmoothieitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:glowberrypopsicleitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:fruitsaladitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:bakedvegetablemedlyitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:basicveggieburgeritem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:veggiepotpieitem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:grilledveggieskeweritem",
+         "required": false
+      },
+      {
+         "id": "pamhc2foodcore:vegetablenoodlesoupitem",
+         "required": false
+      }
+   ]
+}
