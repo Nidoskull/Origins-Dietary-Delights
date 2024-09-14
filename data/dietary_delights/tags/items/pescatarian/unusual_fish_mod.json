@@ -1,0 +1,125 @@
+{
+    "replace": false,
+    "values": [
+       {
+          "id": "unusualfishmod:raw_eyelash",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_spindlefish",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_snowflake",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_aero_mono",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_bumpface",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_rhino_tetra",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_sailor_barb",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_bark_angelfish",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_blizzard_tuna",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:cooked_blizzard_tuna",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_shockcat",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:cooked_shockcat",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_lobster",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:cooked_lobster",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_mossthorn",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:cooked_mossthorn",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_picklefish",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_amber_goby",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_beaked_herring",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_blind_sailfin",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_circus_fish",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_copperflame_anthias",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_demon_herring",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_drooping_gourami",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_duality_damselfish",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_forkfish",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_hatchetfish",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_sneep_snorp",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:raw_triple_twirl_pleco",
+          "required": false
+       },
+       {
+          "id": "unusualfishmod:cooked_unusual_fillet",
+          "required": false
+       }
+    ]
+ }
