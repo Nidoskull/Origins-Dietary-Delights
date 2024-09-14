@@ -1,0 +1,41 @@
+{
+    "replace": false,
+    "values": [
+       {
+          "id": "vietnamsdelight:corn_starch",
+          "required": false
+       },
+       {
+          "id": "vietnamsdelight:rice_mixed_wheat_dough",
+          "required": false
+       },
+       {
+          "id": "vietnamsdelight:rice_batter",
+          "required": false
+       },
+       {
+          "id": "vietnamsdelight:banh_mi",
+          "required": false
+       },
+       {
+          "id": "vietnamsdelight:rice_noodle_sheet",
+          "required": false
+       },
+       {
+          "id": "vietnamsdelight:flat_rice_noodle",
+          "required": false
+       },
+       {
+          "id": "vietnamsdelight:pho",
+          "required": false
+       },
+       {
+          "id": "vietnamsdelight:chicken_pho",
+          "required": false
+       },
+       {
+          "id": "vietnamsdelight:beef_pho",
+          "required": false
+       }
+    ]
+ } 

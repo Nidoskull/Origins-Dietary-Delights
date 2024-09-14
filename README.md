@@ -56,6 +56,7 @@ Dietary Delights works with the following mods:
 42. Vampirism
 43. Vampire's Delight
 44. Vegan Delight
+45. Vietnam's Delight
 ## Implementation Guide
 ### Specific Dietary Tag
 To apply a specific dietary tag, such as Pescatarian, use the following JSON structure:
