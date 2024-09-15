@@ -16,6 +16,7 @@
 	   "#dietary_delights:meat/croptopia",
 	   "#dietary_delights:meat/cultural_delights",
 	   "#dietary_delights:meat/ecologics",
+	   "#dietary_delights:meat/ends_delight",
 	   "#dietary_delights:meat/expanded_delight",
 	   "#dietary_delights:meat/farmers_delight",
 	   "#dietary_delights:meat/farmers_respite",
@@ -35,11 +36,14 @@
 	   "#dietary_delights:meat/silents_delight",
 	   "#dietary_delights:meat/snowpig",
 	   "#dietary_delights:meat/spit_splat",
+	   "#dietary_delights:meat/turkish_delight",
 	   "#dietary_delights:meat/twilight_forest",
 	   "#dietary_delights:meat/unusual_delight",
 	   "#dietary_delights:meat/valley",
 	   "#dietary_delights:meat/vampires_delight",
 	   "#dietary_delights:meat/vampirism",
-	   "#dietary_delights:meat/wildlife"
+	   "#dietary_delights:meat/vietnams_delight",
+	   "#dietary_delights:meat/wildlife",
+	   "#dietary_delights:meat/youve_goat_to_be_kidding_me"
 	]
 }

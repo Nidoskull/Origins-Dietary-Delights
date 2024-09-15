@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "vietnamsdelight:chicken_pho",
+            "required": false
+        },
+        {
+            "id": "vietnamsdelight:beef_pho",
+            "required": false
+        }
+    ]
+}

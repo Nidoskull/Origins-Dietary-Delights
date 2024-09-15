@@ -1,0 +1,13 @@
+{
+    "replace":false,
+    "values":[
+       {
+          "id":"goated:chevon",
+          "required":false
+       },
+       {
+          "id":"goated:cooked_chevon",
+          "required":false
+       }
+    ]
+}

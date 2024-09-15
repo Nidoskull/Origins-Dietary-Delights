@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "turkish_delight:chicken_over_rice",
+            "required": false
+        },
+        {
+            "id": "turkish_delight:kebab",
+            "required": false
+        },
+        {
+            "id": "turkish_delight:meat_over_rice",
+            "required": false
+        },
+        {
+            "id": "turkish_delight:doner",
+            "required": false
+        }
+    ]
+}

@@ -12,15 +12,15 @@ This pack is designed primarily for developers looking to enhance or create cust
 ## Supported Mods
 Dietary Delights works with the following mods:
 
-1. (Let's Do) Bakery
-2. (Let's Do) Vinery
-3. AdventureZ
-4. Alaska Native Craft
-5. Anthropophagy
-6. Aquaculture Delight
-7. Autovw's Burger Mod/Burger Mod Fabricated
-8. Better Animals Plus
-9. Better Nether
+01. (Let's Do) Bakery
+02. (Let's Do) Vinery
+03. AdventureZ
+04. Alaska Native Craft
+05. Anthropophagy
+06. Aquaculture Delight
+07. Autovw's Burger Mod/Burger Mod Fabricated
+08. Better Animals Plus
+09. Better Nether
 10. Born In Chaos
 11. Brewin' And Chewin'
 12. Chest Cavity
@@ -29,34 +29,37 @@ Dietary Delights works with the following mods:
 15. Croptopia
 16. Cultural Delights
 17. Ecologics
-18. Expanded Delight
-19. Farmer's Delight
-20. Farmer's Respite
-21. Fish of Thieves
-22. Food+
-23. Golden Steak
-24. Jellyfishing
-25. Kentucky Fried Axolotls (KFA)
-26. Midas Hunger
-27. Naturalist
-28. Nether Depths Upgrade
-29. Nether's Delight
-30. Ocean's Delight
-31. Pam's HarvestCraft 2 - Food Core
-32. Promenade
-33. Quality Crops
-34. Quality's Delight
-35. Silent's Delight
-36. Snowpig
-37. Spit Splat
-38. Twilight Forest
-39. Unusual Delight (Hostile Delight)
-40. Unusual Fish Mod
-41. ValleyCraft
-42. Vampirism
-43. Vampire's Delight
-44. Vegan Delight
-45. Vietnam's Delight
+18. End's Delight
+19. Expanded Delight
+20. Farmer's Delight
+21. Farmer's Respite
+22. Fish of Thieves
+23. Food+
+24. Golden Steak
+25. Jellyfishing
+26. Kentucky Fried Axolotls (KFA)
+27. Midas Hunger
+28. Naturalist
+29. Nether Depths Upgrade
+30. Nether's Delight
+31. Ocean's Delight
+32. Pam's HarvestCraft 2 - Food Core
+33. Promenade
+34. Quality Crops
+35. Quality's Delight
+36. Silent's Delight
+37. Snowpig
+38. Spit Splat
+39. Twilight Forest
+40. Turkish Delight
+41. Unusual Delight (Hostile Delight)
+42. Unusual Fish Mod
+43. ValleyCraft
+44. Vampire's Delight
+45. Vampirism
+46. Vegan Delight
+47. Vietnam's Delight
+48. You've Goat to be Kidding Me
 ## Implementation Guide
 ### Specific Dietary Tag
 To apply a specific dietary tag, such as Pescatarian, use the following JSON structure:

@@ -1,0 +1,197 @@
+{
+    "replace": false,
+    "values": [
+       {
+          "id": "ends_delight:chorus_fruit_grain",
+          "required": false
+       },
+       {
+          "id": "ends_delight:chorus_succulent",
+          "required": false
+       },
+       {
+          "id": "ends_delight:dried_chorus_flower",
+          "required": false
+       },
+       {
+          "id": "ends_delight:liquid_dragon_egg",
+          "required": false
+       },
+       {
+          "id": "ends_delight:fried_dragon_egg",
+          "required": false
+       },
+       {
+          "id": "ends_delight:shulker_meat",
+          "required": false
+       },
+       {
+          "id": "ends_delight:shulker_meat_slice",
+          "required": false
+       },
+       {
+          "id": "ends_delight:roasted_shulker_meat",
+          "required": false
+       },
+       {
+          "id": "ends_delight:roasted_shulker_meat_slice",
+          "required": false
+       },
+       {
+          "id": "ends_delight:dragon_leg",
+          "required": false
+       },
+       {
+          "id": "ends_delight:smoked_dragon_leg",
+          "required": false
+       },
+       {
+          "id": "ends_delight:raw_dragon_meat",
+          "required": false
+       },
+       {
+          "id": "ends_delight:roasted_dragon_meat",
+          "required": false
+       },
+       {
+          "id": "ends_delight:raw_dragon_meat_cuts",
+          "required": false
+       },
+       {
+          "id": "ends_delight:roasted_dragon_meat_cuts",
+          "required": false
+       },
+       {
+          "id": "ends_delight:raw_ender_mite_meat",
+          "required": false
+       },
+       {
+          "id": "ends_delight:dried_ender_mite_meat",
+          "required": false
+       },
+       {
+          "id": "ends_delight:enderman_gristle",
+          "required": false
+       },
+       {
+          "id": "ends_delight:chorus_sauce",
+          "required": false
+       },
+       {
+          "id": "ends_delight:shulker_omeltte_mixture",
+          "required": false
+       },
+       {
+          "id": "ends_delight:shulker_omeltte",
+          "required": false
+       },
+       {
+          "id": "ends_delight:raw_ender_sausage",
+          "required": false
+       },
+       {
+          "id": "ends_delight:ender_sausage",
+          "required": false
+       },
+       {
+          "id": "ends_delight:ender_bamboo_rice",
+          "required": false
+       },
+       {
+          "id": "ends_delight:stuffed_rice_cake",
+          "required": false
+       },
+       {
+          "id": "ends_delight:chorus_flower_pie",
+          "required": false
+       },
+       {
+          "id": "ends_delight:chorus_cookie",
+          "required": false
+       },
+       {
+          "id": "ends_delight:chorus_fruit_popsicle",
+          "required": false
+       },
+       {
+          "id": "ends_delight:chorus_fruit_milk_tea",
+          "required": false
+       },
+       {
+          "id": "ends_delight:bubble_tea",
+          "required": false
+       },
+       {
+          "id": "ends_delight:chorus_fruit_wine",
+          "required": false
+       },
+       {
+          "id": "ends_delight:dragon_breath_soda",
+          "required": false
+       },
+       {
+          "id": "ends_delight:chorus_flower_tea",
+          "required": false
+       },
+       {
+          "id": "ends_delight:chorus_fruit_pie_slice",
+          "required": false
+       },
+       {
+          "id": "ends_delight:ender_congee",
+          "required": false
+       },
+       {
+          "id": "ends_delight:dragon_breath_and_chorus_soup",
+          "required": false
+       },
+       {
+          "id": "ends_delight:shulker_soup",
+          "required": false
+       },
+       {
+          "id": "ends_delight:ender_noodle",
+          "required": false
+       },
+       {
+          "id": "ends_delight:enderman_gristle_stew",
+          "required": false
+       },
+       {
+          "id": "ends_delight:stir_fried_shulker_meat",
+          "required": false
+       },
+       {
+          "id": "ends_delight:roasted_dragon_steak",
+          "required": false
+       },
+       {
+          "id": "ends_delight:end_mixed_salad",
+          "required": false
+       },
+       {
+          "id": "ends_delight:assorted_salad",
+          "required": false
+       },
+       {
+          "id": "ends_delight:end_barbecue_stick",
+          "required": false
+       },
+       {
+          "id": "ends_delight:dragon_leg_with_sauce",
+          "required": false
+       },
+       {
+          "id": "ends_delight:steamed_dragon_egg",
+          "required": false
+       },
+       {
+          "id": "ends_delight:dragon_meat_stew",
+          "required": false
+       },
+       {
+          "id": "ends_delight:grilled_shulker",
+          "required": false
+       }
+    ]
+} 

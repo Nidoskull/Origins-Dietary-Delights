@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "turkish_delight:ayran",
+            "required": false
+        },
+        {
+            "id": "turkish_delight:yogurt",
+            "required": false
+        }
+    ]
+}

@@ -2,9 +2,12 @@
     "replace": false,
     "values": [
       "#dietary_delights:vegetarian/brewin_and_chewin",
+      "#dietary_delights:vegetarian/ends_delight",
       "#dietary_delights:vegetarian/minecraft",
       "#dietary_delights:vegetarian/pams_harvestcraft_2_food_core",
+      "#dietary_delights:vegetarian/turkish_delight",
       "#dietary_delights:vegetarian/unusual_delight",
-      "#dietary_delights:vegetarian/vampires_delight"
+      "#dietary_delights:vegetarian/vampires_delight",
+      "#dietary_delights:vegetarian/vietnams_delight"
     ]
 }
