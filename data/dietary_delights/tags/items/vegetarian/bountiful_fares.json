@@ -1,0 +1,241 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "bountifulfares:orange",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:lemon",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:hoary_apple",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:walnut",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:walnut_mulch",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:maize",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:leek",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:passion_fruit",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:elderberries",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:lapisberries",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:spongekin_slice",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:apple_cider_jar",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:plum_cider_jar",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:hoary_cider_jar",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:apple_compote_jar",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:orange_compote_jar",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:lemon_compote_jar",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:plum_compote_jar",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:hoary_compote_jar",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:citrus_essence",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:artisan_bread",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:artisan_cookie",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:apple_pie",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:orange_pie",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:lemon_pie",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:plum_pie",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:hoary_pie",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:passion_fruit_tart",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:elderberry_tart",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:glow_berry_tart",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:sweet_berry_tart",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:lapisberry_tart",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:cocoa_cake",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:walnut_cookie",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:maize_bread",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:forest_medley",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:arid_medley",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:meadow_medley",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:coastal_medley",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:mushroom_stuffed_potato",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:berry_stuffed_potato",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:maize_stuffed_potato",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:leek_stew",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:apple_stew",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:stone_stew",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:bountiful_stew",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:custard",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:piquant_custard",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:passion_custard",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:cocoa_custard",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:ancient_custard",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:candy",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:piquant_candy",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:sour_candy",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:bitter_candy",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:candied_apple",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:candied_plum",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:candied_orange",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:candied_lemon",
+            "required": false
+        }
+    ]
+}

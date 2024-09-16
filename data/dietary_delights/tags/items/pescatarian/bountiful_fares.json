@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "bountifulfares:fish_stew",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:passion_glazed_salmon",
+            "required": false
+        }
+    ]
+}
