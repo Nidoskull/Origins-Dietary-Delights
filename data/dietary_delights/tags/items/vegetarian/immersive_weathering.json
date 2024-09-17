@@ -1,0 +1,17 @@
+{
+    "replace":false,
+    "values":[
+       {
+          "id":"immersive_weathering:moss_clump",
+          "required":false
+       },
+       {
+          "id":"immersive_weathering:golden_moss_clump",
+          "required":false
+       },
+       {
+          "id":"immersive_weathering:enchanted_golden_moss_clump",
+          "required":false
+       }
+    ]
+}

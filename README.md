@@ -64,6 +64,8 @@ Dietary Delights works with the following mods:
 50. Spawn
 51. (Let's Do) Candlelight
 52. Twilight's Flavors & Delight
+53. Nears
+54. Immersive Weathering
 ## Implementation Guide
 ### Specific Dietary Tag
 To apply a specific dietary tag, such as Pescatarian, use the following JSON structure:
