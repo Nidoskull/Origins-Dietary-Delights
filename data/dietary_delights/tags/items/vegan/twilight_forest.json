@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "twilightforest:torchberries",
+            "required": false
+        },
+        {
+            "id": "twilightforest:maze_wafer",
+            "required": false
+        }
+    ]
+}

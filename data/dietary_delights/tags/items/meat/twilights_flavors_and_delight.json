@@ -1,0 +1,61 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "twilightdelight:hydra_piece",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:raw_venison_rib",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:cooked_venison_rib",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:raw_meef_slice",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:cooked_meef_slice",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:raw_tomahawk_smeak",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:cooked_tomahawk_smeak",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:ghast_burger",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:hydra_burger",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:grilled_ghast",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:grilled_tomahawk_smeak",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:plate_of_lily_chicken",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:plate_of_fiery_snakes",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:plate_of_meef_wellington",
+            "required": false
+        }
+    ]
+}
