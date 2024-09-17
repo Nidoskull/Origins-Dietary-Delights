@@ -1,0 +1,65 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "midashunger:cooked_golden_beef",
+			"required": false
+		},
+		{
+			"id": "midashunger:cooked_golden_chicken",
+			"required": false
+		},
+		{
+			"id": "midashunger:cooked_golden_cod",
+			"required": false
+		},
+		{
+			"id": "midashunger:cooked_golden_mutton",
+			"required": false
+		},
+		{
+			"id": "midashunger:cooked_golden_porkchop",
+			"required": false
+		},
+		{
+			"id": "midashunger:cooked_golden_rabbit",
+			"required": false
+		},
+		{
+			"id": "midashunger:cooked_golden_salmon",
+			"required": false
+		},
+        {
+            "id": "midashunger:poisonous_golden_potato",
+            "required": false
+        },
+		{
+            "id": "midashunger:baked_golden_potato",
+            "required": false
+        },
+		{
+            "id": "midashunger:golden_beetroot",
+            "required": false
+        },
+        {
+            "id": "midashunger:golden_chorus_fruit",
+            "required": false
+        },
+        {
+            "id": "midashunger:dried_golden_kelp",
+            "required": false
+        },
+        {
+            "id": "midashunger:golden_kelp",
+            "required": false
+        },
+        {
+            "id": "midashunger:golden_pumpkin_pie",
+            "required": false
+        },
+        {
+            "id": "midashunger:sweet_golden_berries",
+            "required": false
+        }
+	]
+}

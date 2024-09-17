@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "alaskanativecraft:fish_strip",
+			"required": false
+		},
+		{
+			"id": "alaskanativecraft:dry_fish",
+			"required": false
+		},
+		{
+			"id": "alaskanativecraft:muktuk",
+			"required": false
+		}
+	]
+}

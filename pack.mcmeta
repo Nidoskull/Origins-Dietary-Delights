@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 34,
+    "pack_format": 50,
     "supported_formats": {
-      "min_inclusive": 18,
-      "max_inclusive": 34
+      "min_inclusive": 48,
+      "max_inclusive": 50
     },
     "description": {
       "text": "Adds compatibility between Origins and common food mods.",

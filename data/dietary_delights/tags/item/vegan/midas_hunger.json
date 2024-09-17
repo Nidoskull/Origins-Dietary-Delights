@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+        {
+            "id": "midashunger:poisonous_golden_potato",
+            "required": false
+        },
+		{
+            "id": "midashunger:baked_golden_potato",
+            "required": false
+        },
+		{
+            "id": "midashunger:golden_beetroot",
+            "required": false
+        }
+	]
+}
