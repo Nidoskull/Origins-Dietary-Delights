@@ -1,0 +1,25 @@
+{
+    "replace":false,
+    "values":[
+       {
+          "id":"nether_additions:lavacanth",
+          "required":false
+       },
+       {
+          "id":"nether_additions:ectocarp",
+          "required":false
+       },
+       {
+          "id":"nether_additions:pyrolithid",
+          "required":false
+       },
+       {
+          "id":"nether_additions:goldhead_wrasse",
+          "required":false
+       },
+       {
+          "id":"nether_additions:lithid_soup",
+          "required":false
+       }
+    ]
+}
