@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "nears:soul_berries",
+            "required": false
+        },
+        {
+            "id": "nears:cinder_sangak",
+            "required": false
+        },
+        {
+            "id": "nears:glow_salad",
+            "required": false
+        }
+    ]
+}
