@@ -1,0 +1,49 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "bakery:strawberry",
+			"required": false
+		},
+		{
+			"id": "bakery:oat",
+			"required": false
+		},
+		{
+			"id": "bakery:yeast",
+			"required": false
+		},
+		{
+			"id": "bakery:crusty_bread",
+			"required": false
+		},
+		{
+			"id": "bakery:bread",
+			"required": false
+		},
+		{
+			"id": "bakery:baguette",
+			"required": false
+		},
+		{
+			"id": "bakery:vegetable_sandwich",
+			"required": false
+		},
+		{
+			"id": "bakery:apple_pie_slice",
+			"required": false
+		},
+		{
+			"id": "bakery:strawberry_glazed_cookie",
+			"required": false
+		},
+		{
+			"id": "bakery:sweetberry_glazed_cookie",
+			"required": false
+		},
+		{
+			"id": "bakery:jam_roll",
+			"required": false
+		}
+	]
+}

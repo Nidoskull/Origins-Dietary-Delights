@@ -62,6 +62,7 @@ Dietary Delights works with the following mods:
 48. You've Goat to be Kidding Me
 49. Bountiful Fares
 50. Spawn
+51. (Let's Do) Candlelight
 ## Implementation Guide
 ### Specific Dietary Tag
 To apply a specific dietary tag, such as Pescatarian, use the following JSON structure:

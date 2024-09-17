@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "candlelight:tropical_fish_supreme",
+            "required": false
+        },
+        {
+            "id": "candlelight:salmon_wine",
+            "required": false
+        }
+    ]
+}

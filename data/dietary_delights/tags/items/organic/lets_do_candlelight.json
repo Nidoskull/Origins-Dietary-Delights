@@ -1,0 +1,125 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "candlelight:tomato",
+            "required": false
+        },
+        {
+            "id": "candlelight:lettuce",
+            "required": false
+        },
+        {
+            "id": "candlelight:mozzarella",
+            "required": false
+        },
+        {
+            "id": "candlelight:tomato_soup",
+            "required": false
+        },
+        {
+            "id": "candlelight:mushroom_soup",
+            "required": false
+        },
+        {
+            "id": "candlelight:beetroot_salad",
+            "required": false
+        },
+        {
+            "id": "candlelight:pasta",
+            "required": false
+        },
+        {
+            "id": "candlelight:bolognese",
+            "required": false
+        },
+        {
+            "id": "candlelight:chicken_teriyaki",
+            "required": false
+        },
+        {
+            "id": "candlelight:lettuce_salad",
+            "required": false
+        },
+        {
+            "id": "candlelight:chocolate",
+            "required": false
+        },
+        {
+            "id": "candlelight:beef_tartare",
+            "required": false
+        },
+        {
+            "id": "candlelight:pasta_raw",
+            "required": false
+        },
+        {
+            "id": "candlelight:pasta_bolognese",
+            "required": false
+        },
+        {
+            "id": "candlelight:pasta_lettuce",
+            "required": false
+        },
+        {
+            "id": "candlelight:pancake",
+            "required": false
+        },
+        {
+            "id": "candlelight:lettuce_tomato",
+            "required": false
+        },
+        {
+            "id": "candlelight:veggie_plate",
+            "required": false
+        },
+        {
+            "id": "candlelight:fricasse",
+            "required": false
+        },
+        {
+            "id": "candlelight:tomato_mozzarella_salad",
+            "required": false
+        },
+        {
+            "id": "candlelight:pork_ribs",
+            "required": false
+        },
+        {
+            "id": "candlelight:roastbeef_carrots",
+            "required": false
+        },
+        {
+            "id": "candlelight:lettuce_beef",
+            "required": false
+        },
+        {
+            "id": "candlelight:tropical_fish_supreme",
+            "required": false
+        },
+        {
+            "id": "candlelight:cooked_beef",
+            "required": false
+        },
+        {
+            "id": "candlelight:salmon_wine",
+            "required": false
+        },
+        {
+            "id": "candlelight:chicken_alfredo",
+            "required": false
+        },
+        {
+            "id": "candlelight:chicken",
+            "required": false
+        },
+        {
+            "id": "candlelight:lasagne",
+            "required": false
+        },
+        {
+            "id": "candlelight:beef_wellington",
+            "required": false
+        }
+    ]
+}

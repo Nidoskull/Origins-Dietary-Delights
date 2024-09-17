@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "candlelight:mozzarella",
+            "required": false
+        },
+        {
+            "id": "candlelight:beef_tartare",
+            "required": false
+        },
+        {
+            "id": "candlelight:pork_ribs",
+            "required": false
+        },
+        {
+            "id": "candlelight:cooked_beef",
+            "required": false
+        },
+        {
+            "id": "candlelight:salmon_wine",
+            "required": false
+        },
+        {
+            "id": "candlelight:chicken",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "candlelight:tomato",
+            "required": false
+        },
+        {
+            "id": "candlelight:lettuce",
+            "required": false
+        },
+        {
+            "id": "candlelight:mushroom_soup",
+            "required": false
+        },
+        {
+            "id": "candlelight:beetroot_salad",
+            "required": false
+        },
+        {
+            "id": "candlelight:lettuce_salad",
+            "required": false
+        },
+        {
+            "id": "candlelight:veggie_plate",
+            "required": false
+        }
+    ]
+}

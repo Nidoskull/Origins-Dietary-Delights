@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "candlelight:chicken_teriyaki",
+            "required": false
+        },
+        {
+            "id": "candlelight:beef_tartare",
+            "required": false
+        },
+        {
+            "id": "candlelight:pork_ribs",
+            "required": false
+        },
+        {
+            "id": "candlelight:cooked_beef",
+            "required": false
+        },
+        {
+            "id": "candlelight:chicken",
+            "required": false
+        },
+        {
+            "id": "candlelight:beef_wellington",
+            "required": false
+        }
+    ]
+}
