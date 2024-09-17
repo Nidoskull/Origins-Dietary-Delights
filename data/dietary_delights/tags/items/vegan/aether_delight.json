@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "aetherdelight:bowl_of_blue_berries",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:bowl_of_enchanted_berries",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:goldenleaf_salad",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:strange_root_salad",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:luxbuds_salad",
+            "required": false
+        }
+    ]
+}

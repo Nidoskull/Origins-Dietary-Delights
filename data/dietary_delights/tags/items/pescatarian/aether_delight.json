@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "aetherdelight:raw_aerfillet",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:cooked_aerfillet",
+            "required": false
+        }
+    ]
+}

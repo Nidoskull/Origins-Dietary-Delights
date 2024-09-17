@@ -1,0 +1,81 @@
+{
+    "replace": false,
+    "values": [
+       {
+          "id": "aetherdelight:bowl_of_blue_berries",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:bowl_of_enchanted_berries",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:festive_sweets",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:bowl_of_ginger_cookies",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:sweet_and_sour_soup",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:swet_pudding",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:ambrosia_dew",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:ambrosia_glazed_apple",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:aetherflower_tea",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:swet_syrup",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:raw_aerfillet",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:cooked_aerfillet",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:quail_stew",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:goldenleaf_salad",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:blueberry_pie_slice",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:enchanted_pie_slice",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:oat_cookie",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:strange_root_salad",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:luxbuds_salad",
+          "required": false
+       }
+    ]
+}

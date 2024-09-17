@@ -12,64 +12,66 @@ This pack is designed primarily for developers looking to enhance or create cust
 ## Supported Mods
 Dietary Delights works with the following mods:
 
-01. AdventureZ
-02. Alaska Native Craft
-03. Anthropophagy
-04. Aquaculture Delight
-05. Autovw's Burger Mod/Burger Mod Fabricated  
-06. Better Animals Plus  
-07. Better Nether  
-08. Born In Chaos  
-09. Bountiful Fares  
-10. Brewin' And Chewin'  
-11. Chest Cavity  
-12. Chirpy's Wildlife  
-13. Corn Delight  
-14. Croptopia  
-15. Cultural Delights  
-16. Ecologics  
-17. Ender's Delight  
-18. End's Delight  
-19. Expanded Delight  
-20. Farmer's Delight  
-21. Farmer's Respite  
-22. Fish of Thieves  
-23. Food+  
-24. Golden Steak  
-25. Immersive Weathering  
-26. Jellyfishing  
-27. Kentucky Fried Axolotls (KFA)  
-28. (Let's Do) Bakery  
-29. (Let's Do) Candlelight  
-30. (Let's Do) Vinery  
-31. Midas Hunger  
-32. Naturalist  
-33. Nears  
-34. Nether Depths Upgrade  
-35. Nether's Delight  
-36. Ocean's Delight  
-37. Pam's HarvestCraft 2 - Food Core  
-38. Promenade  
-39. Quality Crops  
-40. Quality's Delight  
-41. Silent's Delight  
-42. Snowpig  
-43. Spawn  
-44. Spit Splat  
-45. Twilight Forest  
-46. Twilight's Flavors & Delight  
-47. Turkish Delight  
-48. Unusual Delight (Hostile Delight)  
-49. Unusual Fish Mod  
-50. ValleyCraft  
-51. Vampire's Delight  
-52. Vampirism  
-53. Vegan Delight  
-54. Vietnam's Delight  
-55. You've Goat to be Kidding Me
-56. End's Phantasm
-57. Galosphere
-58. Nether Additions
+01. (Let's Do) Bakery  
+02. (Let's Do) Candlelight  
+03. (Let's Do) Vinery  
+04. AdventureZ  
+05. Aether Delight  
+06. Alaska Native Craft  
+07. Anthropophagy  
+08. Aquaculture Delight  
+09. Autovw's Burger Mod/Burger Mod Fabricated  
+10. Better Animals Plus  
+11. Better Nether  
+12. Born In Chaos  
+13. Bountiful Fares  
+14. Brewin' And Chewin'  
+15. Chest Cavity  
+16. Chirpy's Wildlife  
+17. Corn Delight  
+18. Croptopia  
+19. Cultural Delights  
+20. Ecologics  
+21. End's Delight  
+22. End's Phantasm  
+23. Ender's Delight  
+24. Expanded Delight  
+25. Farmer's Delight  
+26. Farmer's Respite  
+27. Fish of Thieves  
+28. Food+  
+29. Galosphere  
+30. Golden Steak  
+31. Immersive Weathering  
+32. Jellyfishing  
+33. Kentucky Fried Axolotls (KFA)  
+34. Midas Hunger  
+35. Naturalist  
+36. Nears  
+37. Nether Additions  
+38. Nether Depths Upgrade  
+39. Nether's Delight  
+40. Ocean's Delight  
+41. Pam's HarvestCraft 2 - Food Core  
+42. Promenade  
+43. Quality Crops  
+44. Quality's Delight  
+45. Silent's Delight  
+46. Snowpig  
+47. Spawn  
+48. Spit Splat  
+49. The Aether  
+50. Twilight Forest  
+51. Twilight's Flavors & Delight  
+52. Turkish Delight  
+53. Unusual Delight (Hostile Delight)  
+54. Unusual Fish Mod  
+55. ValleyCraft  
+56. Vampire's Delight  
+57. Vampirism  
+58. Vegan Delight  
+59. Vietnam's Delight  
+60. You've Goat to be Kidding Me
 ## Implementation Guide
 ### Specific Dietary Tag
 To apply a specific dietary tag, such as Pescatarian, use the following JSON structure:

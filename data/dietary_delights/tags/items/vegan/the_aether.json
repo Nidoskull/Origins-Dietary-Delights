@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "aether:blue_berry",
+            "required": false
+        },
+        {
+            "id": "aether:enchanted_berry",
+            "required": false
+        },
+        {
+            "id": "aether:white_apple",
+            "required": false
+        }
+    ]
+}
