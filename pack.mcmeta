@@ -2,7 +2,7 @@
   "pack": {
     "pack_format": 50,
     "supported_formats": {
-      "min_inclusive": 48,
+      "min_inclusive": 6,
       "max_inclusive": 50
     },
     "description": {
