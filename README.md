@@ -68,6 +68,7 @@ Dietary Delights works with the following mods:
 54. Vietnam's Delight  
 55. You've Goat to be Kidding Me
 56. End's Phantasm
+57. Galosphere
 ## Implementation Guide
 ### Specific Dietary Tag
 To apply a specific dietary tag, such as Pescatarian, use the following JSON structure:

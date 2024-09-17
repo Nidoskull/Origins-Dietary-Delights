@@ -1,0 +1,13 @@
+{
+   "replace": false,
+   "values": [
+       {
+           "id": "galosphere:lichen_cordyceps",
+           "required": false
+       },
+       {
+           "id": "galosphere:golden_lichen_cordyceps",
+           "required": false
+       }
+   ]
+}
