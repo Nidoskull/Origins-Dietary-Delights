@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+      {
+        "id": "spawn:angler_fish",
+        "required": false
+      },
+      {
+        "id": "spawn:tuna_chunk",
+        "required": false
+      },
+      {
+        "id": "spawn:cooked_tuna_chunk",
+        "required": false
+      },
+      {
+        "id": "spawn:escargot",
+        "required": false
+      }
+    ]
+}  
