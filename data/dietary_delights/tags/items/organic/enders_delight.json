@@ -1,0 +1,73 @@
+{
+    "replace": false,
+    "values": [
+       {
+          "id": "endersdelight:mite_crust",
+          "required": false
+       },
+       {
+          "id": "endersdelight:shulker_mollusk",
+          "required": false
+       },
+       {
+          "id": "endersdelight:shulker_filet",
+          "required": false
+       },
+       {
+          "id": "endersdelight:uncanny_cookies",
+          "required": false
+       },
+       {
+          "id": "endersdelight:chorus_juice",
+          "required": false
+       },
+       {
+          "id": "endersdelight:strange_eclair",
+          "required": false
+       },
+       {
+          "id": "endersdelight:chorus_pie",
+          "required": false
+       },
+       {
+          "id": "endersdelight:chorus_pie_slice",
+          "required": false
+       },
+       {
+          "id": "endersdelight:chorus_stew",
+          "required": false
+       },
+       {
+          "id": "endersdelight:crispy_skewer",
+          "required": false
+       },
+       {
+          "id": "endersdelight:crawling_sandwich",
+          "required": false
+       },
+       {
+          "id": "endersdelight:twisted_cereal",
+          "required": false
+       },
+       {
+          "id": "endersdelight:endermite_stew",
+          "required": false
+       },
+       {
+          "id": "endersdelight:pearl_pasta",
+          "required": false
+       },
+       {
+          "id": "endersdelight:ender_paella",
+          "required": false
+       },
+       {
+          "id": "endersdelight:stuffed_shulker_bowl",
+          "required": false
+       },
+       {
+          "id": "endersdelight:stuffed_shulker",
+          "required": false
+       }
+    ]
+} 

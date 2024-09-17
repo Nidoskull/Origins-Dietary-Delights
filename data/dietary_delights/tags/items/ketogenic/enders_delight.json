@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "endersdelight:mite_crust",
+            "required": false
+        },
+        {
+            "id": "endersdelight:shulker_filet",
+            "required": false
+        },
+        {
+            "id": "endersdelight:crispy_skewer",
+            "required": false
+        }
+    ]
+}

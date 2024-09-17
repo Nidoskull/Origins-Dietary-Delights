@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "endersdelight:uncanny_cookies",
+            "required": false
+        },
+        {
+            "id": "endersdelight:chorus_juice",
+            "required": false
+        },
+        {
+            "id": "endersdelight:twisted_cereal",
+            "required": false
+        }
+    ]
+}
