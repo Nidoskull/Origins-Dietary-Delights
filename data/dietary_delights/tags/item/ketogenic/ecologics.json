@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "ecologics:coconut_slice",
+            "required": false
+        },
+        {
+            "id": "ecologics:crab_meat",
+            "required": false
+        },
+        {
+            "id": "ecologics:walnut",
+            "required": false
+        }
+    ]
+}

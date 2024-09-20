@@ -1,0 +1,13 @@
+{
+    "replace":false,
+    "values":[
+       {
+          "id":"rottenleather:sweetened_chunk",
+          "required":false
+       },
+       {
+          "id":"rottenleather:flesh_jerky",
+          "required":false
+       }
+    ]
+ }

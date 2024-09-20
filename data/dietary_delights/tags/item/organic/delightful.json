@@ -1,0 +1,205 @@
+{
+    "replace": false,
+    "values": [
+       {
+          "id": "delightful:matcha_ice_cream",
+          "required": false
+       },
+       {
+          "id": "delightful:salmonberry_ice_cream",
+          "required": false
+       },
+       {
+          "id": "delightful:matcha_milkshake",
+          "required": false
+       },
+       {
+          "id": "delightful:salmonberry_milkshake",
+          "required": false
+       },
+       {
+          "id": "delightful:matcha",
+          "required": false
+       },
+       {
+          "id": "delightful:green_tea_leaf",
+          "required": false
+       },
+       {
+          "id": "delightful:salmonberries",
+          "required": false
+       },
+       {
+          "id": "delightful:salmonberry_pips",
+          "required": false
+       },
+       {
+          "id": "delightful:salmonberry_pie",
+          "required": false
+       },
+       {
+          "id": "delightful:salmonberry_pie_slice",
+          "required": false
+       },
+       {
+          "id": "delightful:pumpkin_pie_slice",
+          "required": false
+       },
+       {
+          "id": "delightful:source_berry_pie_slice",
+          "required": false
+       },
+       {
+          "id": "delightful:animal_fat",
+          "required": false
+       },
+       {
+          "id": "delightful:acorn",
+          "required": false
+       },
+       {
+          "id": "delightful:roasted_acorn",
+          "required": false
+       },
+       {
+          "id": "delightful:nut_dough",
+          "required": false
+       },
+       {
+          "id": "delightful:cactus_flesh",
+          "required": false
+       },
+       {
+          "id": "delightful:cactus_steak",
+          "required": false
+       },
+       {
+          "id": "delightful:cactus_chili",
+          "required": false
+       },
+       {
+          "id": "delightful:cactus_soup",
+          "required": false
+       },
+       {
+          "id": "delightful:field_salad",
+          "required": false
+       },
+       {
+          "id": "delightful:coconut_curry",
+          "required": false
+       },
+       {
+          "id": "delightful:sinigang",
+          "required": false
+       },
+       {
+          "id": "delightful:azalea_tea",
+          "required": false
+       },
+       {
+          "id": "delightful:prickly_pear_juice",
+          "required": false
+       },
+       {
+          "id": "delightful:ender_nectar",
+          "required": false
+       },
+       {
+          "id": "delightful:matcha_latte",
+          "required": false
+       },
+       {
+          "id": "delightful:berry_matcha_latte",
+          "required": false
+       },
+       {
+          "id": "delightful:jelly_bottle",
+          "required": false
+       },
+       {
+          "id": "delightful:glow_jelly_bottle",
+          "required": false
+       },
+       {
+          "id": "delightful:nut_butter_bottle",
+          "required": false
+       },
+       {
+          "id": "delightful:nut_butter_and_jelly_sandwich",
+          "required": false
+       },
+       {
+          "id": "delightful:cheeseburger",
+          "required": false
+       },
+       {
+          "id": "delightful:deluxe_cheeseburger",
+          "required": false
+       },
+       {
+          "id": "delightful:chunkwich",
+          "required": false
+       },
+       {
+          "id": "delightful:marshmallow_stick",
+          "required": false
+       },
+       {
+          "id": "delightful:cooked_marshmallow_stick",
+          "required": false
+       },
+       {
+          "id": "delightful:smore",
+          "required": false
+       },
+       {
+          "id": "delightful:crab_rangoon",
+          "required": false
+       },
+       {
+          "id": "delightful:honey_glazed_walnut",
+          "required": false
+       },
+       {
+          "id": "delightful:raw_goat",
+          "required": false
+       },
+       {
+          "id": "delightful:cooked_goat",
+          "required": false
+       },
+       {
+          "id": "delightful:cantaloupe_slice",
+          "required": false
+       },
+       {
+          "id": "delightful:cantaloupe_bread",
+          "required": false
+       },
+       {
+          "id": "delightful:wrapped_cantaloupe",
+          "required": false
+       },
+       {
+          "id": "delightful:cantaloupe_popsicle",
+          "required": false
+       },
+       {
+          "id": "delightful:stuffed_cantaloupe",
+          "required": false
+       },
+       {
+          "id": "delightful:salmonberry_gummy",
+          "required": false
+       },
+       {
+          "id": "delightful:matcha_gummy",
+          "required": false
+       },
+       {
+          "id": "delightful:cantaloupe_gummy",
+          "required": false
+       }
+    ]
+} 

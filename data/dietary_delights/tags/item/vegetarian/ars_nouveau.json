@@ -1,0 +1,29 @@
+{
+    "replace":false,
+    "values":[
+       {
+          "id":"ars_nouveau:source_berry_roll",
+          "required":false
+       },
+       {
+          "id":"ars_nouveau:sourceberry_bush",
+          "required":false
+       },
+       {
+          "id":"ars_nouveau:mendosteen_pod",
+          "required":false
+       },
+       {
+          "id":"ars_nouveau:bastion_pod",
+          "required":false
+       },
+       {
+          "id":"ars_nouveau:frostaya_pod",
+          "required":false
+       },
+       {
+          "id":"ars_nouveau:bombegrante_pod",
+          "required":false
+       }
+    ]
+}

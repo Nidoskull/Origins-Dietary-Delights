@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "delightful:animal_fat",
+            "required": false
+        },
+        {
+            "id": "delightful:animal_oil_bottle",
+            "required": false
+        },
+        {
+            "id": "delightful:roasted_acorn",
+            "required": false
+        },
+        {
+            "id": "delightful:cactus_flesh",
+            "required": false
+        },
+        {
+            "id": "delightful:cooked_goat",
+            "required": false
+        },
+        {
+            "id": "delightful:cheeseburger",
+            "required": false
+        }
+    ]
+}

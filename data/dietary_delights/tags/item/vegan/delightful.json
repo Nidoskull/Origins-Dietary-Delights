@@ -1,0 +1,49 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "delightful:matcha",
+            "required": false
+        },
+        {
+            "id": "delightful:green_tea_leaf",
+            "required": false
+        },
+        {
+            "id": "delightful:salmonberries",
+            "required": false
+        },
+        {
+            "id": "delightful:salmonberry_pips",
+            "required": false
+        },
+        {
+            "id": "delightful:roasted_acorn",
+            "required": false
+        },
+        {
+            "id": "delightful:cactus_flesh",
+            "required": false
+        },
+        {
+            "id": "delightful:cactus_steak",
+            "required": false
+        },
+        {
+            "id": "delightful:cactus_chili",
+            "required": false
+        },
+        {
+            "id": "delightful:cactus_soup",
+            "required": false
+        },
+        {
+            "id": "delightful:field_salad",
+            "required": false
+        },
+        {
+            "id": "delightful:azalea_tea",
+            "required": false
+        }
+    ]
+}

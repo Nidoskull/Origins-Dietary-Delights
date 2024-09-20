@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "ecologics:coconut_slice",
+            "required": false
+        },
+        {
+            "id": "ecologics:prickly_pear",
+            "required": false
+        },
+        {
+            "id": "ecologics:cooked_prickly_pear",
+            "required": false
+        },
+        {
+            "id": "ecologics:walnut",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "biomemakeover:bulbus_root",
+            "required": false
+        },
+        {
+            "id": "biomemakeover:roasted_bulbus_root",
+            "required": false
+        }
+    ]
+}

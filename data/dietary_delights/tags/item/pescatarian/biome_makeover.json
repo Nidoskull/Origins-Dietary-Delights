@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "biomemakeover:glowfish",
+            "required": false
+        },
+        {
+            "id": "biomemakeover:cooked_glowfish",
+            "required": false
+        }
+    ]
+}

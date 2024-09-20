@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "delightful:animal_fat",
+            "required": false
+        },
+        {
+            "id": "delightful:raw_goat",
+            "required": false
+        },
+        {
+            "id": "delightful:cooked_goat",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "delightful:matcha_ice_cream",
+            "required": false
+        },
+        {
+            "id": "delightful:salmonberry_ice_cream",
+            "required": false
+        },
+        {
+            "id": "delightful:matcha_milkshake",
+            "required": false
+        },
+        {
+            "id": "delightful:salmonberry_milkshake",
+            "required": false
+        },
+        {
+            "id": "delightful:cheeseburger",
+            "required": false
+        },
+        {
+            "id": "delightful:deluxe_cheeseburger",
+            "required": false
+        }
+    ]
+}

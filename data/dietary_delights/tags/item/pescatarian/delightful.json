@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "delightful:sinigang",
+            "required": false
+        },
+        {
+            "id": "delightful:crab_rangoon",
+            "required": false
+        }
+    ]
+}
