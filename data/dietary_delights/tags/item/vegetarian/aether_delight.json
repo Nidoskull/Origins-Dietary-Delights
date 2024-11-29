@@ -28,6 +28,74 @@
         {
             "id": "aetherdelight:luxbuds_salad",
             "required": false
+        },
+        {
+            "id": "aetherdelight:ginger",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:parsnip",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:cooked_parsnip",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:leek",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:white_apple_pie_slice",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:blue_squash_slice",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:green_squash_slice",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:purple_squash_slice",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:gingerbread_dough",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:gingerbread",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:gingerbread_man_base",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:gingerbread_moa_base",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:gingerbread_moa",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:gingerbread_star_base",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:gingerbread_star",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:peppermint_candy_dough",
+            "required": false
+        },
+        {
+            "id": "aetherdelight:peppermint_candy",
+            "required": false
         }
     ]
 }

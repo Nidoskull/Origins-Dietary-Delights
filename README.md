@@ -13,70 +13,75 @@ This pack is designed primarily for developers looking to enhance or create cust
 Dietary Delights works with the following mods:
 
 01. (Let's Do) Bakery  
-02. (Let's Do) Candlelight  
-03. (Let's Do) Vinery  
-04. AdventureZ  
-05. Aether Delight  
-06. Alaska Native Craft  
-07. Anthropophagy  
-08. Aquaculture Delight  
-09. Autovw's Burger Mod/Burger Mod Fabricated  
-10. Better Animals Plus  
-11. Better Nether  
-12. Born In Chaos  
-13. Bountiful Fares  
-14. Brewin' And Chewin'  
-15. Chest Cavity  
-16. Chirpy's Wildlife  
-17. Corn Delight  
-18. Croptopia  
-19. Cultural Delights  
-20. Ecologics  
-21. End's Delight  
-22. End's Phantasm  
-23. Ender's Delight  
-24. Expanded Delight  
-25. Farmer's Delight  
-26. Farmer's Respite  
-27. Fish of Thieves  
-28. Food+  
-29. Galosphere  
-30. Golden Steak  
-31. Immersive Weathering  
-32. Jellyfishing  
-33. Kentucky Fried Axolotls (KFA)  
-34. Midas Hunger  
-35. Naturalist  
-36. Nears  
-37. Nether Additions  
-38. Nether Depths Upgrade  
-39. Nether's Delight  
-40. Ocean's Delight  
-41. Pam's HarvestCraft 2 - Food Core  
-42. Promenade  
-43. Quality Crops  
-44. Quality's Delight  
-45. Silent's Delight  
-46. Snowpig  
-47. Spawn  
-48. Spit Splat  
-49. The Aether  
-50. Twilight Forest  
-51. Twilight's Flavors & Delight  
-52. Turkish Delight  
-53. Unusual Delight (Hostile Delight)  
-54. Unusual Fish Mod  
-55. ValleyCraft  
-56. Vampire's Delight  
-57. Vampirism  
-58. Vegan Delight  
-59. Vietnam's Delight  
-60. You've Goat to be Kidding Me
-61. Biome Makeover
-62. Delightful
-63. Ars Nouveau
-64. Ecologics
-65. Rotten Leather
+02. (Let's Do) Beachparty  
+03. (Let's Do) Brewery  
+04. (Let's Do) Candlelight  
+05. (Let's Do) Farm & Charm  
+06. (Let's Do) Meadow  
+07. (Let's Do) Vinery  
+08. AdventureZ  
+09. Aether Delight  
+10. Alaska Native Craft  
+11. Anthropophagy  
+12. Aquaculture Delight  
+13. Ars Nouveau  
+14. Autovw's Burger Mod/Burger Mod Fabricated  
+15. Better Animals Plus  
+16. Better Nether  
+17. Biome Makeover  
+18. Born In Chaos  
+19. Bountiful Fares  
+20. Brewin' And Chewin'  
+21. Chest Cavity  
+22. Chirpy's Wildlife  
+23. Corn Delight  
+24. Croptopia  
+25. Cultural Delights  
+26. Deep Aether  
+27. Delightful  
+28. Ecologics  
+29. End's Delight  
+30. End's Phantasm  
+31. Ender's Delight  
+32. Expanded Delight  
+33. Farmer's Delight  
+34. Farmer's Respite  
+35. Fish of Thieves  
+36. Food+  
+37. Galosphere  
+38. Golden Steak  
+39. Immersive Weathering  
+40. Jellyfishing  
+41. Kentucky Fried Axolotls (KFA)  
+42. Midas Hunger  
+43. Naturalist  
+44. Nears  
+45. Nether Additions  
+46. Nether Depths Upgrade  
+47. Nether's Delight  
+48. Ocean's Delight  
+49. Pam's HarvestCraft 2 - Food Core  
+50. Promenade  
+51. Quality Crops  
+52. Quality's Delight  
+53. Rotten Leather  
+54. Silent's Delight  
+55. Snowpig  
+56. Spawn  
+57. Spit Splat  
+58. The Aether  
+59. The Aether: Redux  
+60. Twilight Forest  
+61. Twilight's Flavors & Delight  
+62. Turkish Delight  
+63. Unusual Delight (Hostile Delight)  
+64. Unusual Fish Mod  
+65. ValleyCraft  
+66. Vampire's Delight  
+67. Vampirism  
+68. Vegan Delight  
+69. Vietnam's Delight  
+70. You've Goat to be Kidding Me
 ## Implementation Guide
 ### Specific Dietary Tag
 To apply a specific dietary tag, such as Pescatarian, use the following JSON structure:

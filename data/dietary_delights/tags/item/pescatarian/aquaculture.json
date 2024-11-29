@@ -124,6 +124,10 @@
         {
             "id": "aquaculture:tuna",
             "required": false
+        },
+        {
+            "id": "aquaculture:carp",
+            "required": false
         }
     ]
 }

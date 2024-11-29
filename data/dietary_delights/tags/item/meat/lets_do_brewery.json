@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "brewery:pork_knuckle",
+			"required": false
+		},
+		{
+			"id": "brewery:fried_chicken",
+			"required": false
+		},
+		{
+			"id": "brewery:half_chicken",
+			"required": false
+		},
+		{
+			"id": "brewery:sausage",
+			"required": false
+		}
+	]
+}

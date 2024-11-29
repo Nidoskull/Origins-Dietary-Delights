@@ -2,59 +2,59 @@
     "replace": false,
     "values": [
         {
-            "id": "aetherdelight:raw_aerfillet",
+            "id": "aether_redux:blueberry_pie",
             "required": false
         },
         {
-            "id": "aetherdelight:cooked_aerfillet",
+            "id": "aether_redux:enchanted_blueberry_pie",
             "required": false
         },
         {
-            "id": "aetherdelight:quail_stew",
+            "id": "aether_redux:wynd_bagel",
             "required": false
         },
         {
-            "id": "aethersdelight:raw_moa",
+            "id": "aether_redux:blueberry_bagel",
             "required": false
         },
         {
-            "id": "aethersdelight:raw_moa_cuts",
+            "id": "aether_redux:wynd_oats",
             "required": false
         },
         {
-            "id": "aethersdelight:cooked_moa",
+            "id": "aether_redux:oatmeal",
             "required": false
         },
         {
-            "id": "aethersdelight:cooked_moa_cuts",
+            "id": "aether_redux:peppermint_leaf",
             "required": false
         },
         {
-            "id": "aethersdelight:wing",
+            "id": "aether_redux:zanberry",
             "required": false
         },
         {
-            "id": "aethersdelight:cooked_wing",
+            "id": "aether_redux:blue_gummy_swet",
             "required": false
         },
         {
-            "id": "aethersdelight:fried_moa_egg",
+            "id": "aether_redux:golden_gummy_swet",
             "required": false
         },
         {
-            "id": "aethersdelight:moa_stew",
+            "id": "aether_redux:vanilla_gummy_swet",
             "required": false
         },
         {
-            "id": "aethersdelight:flying_beef_stew",
+            "id": "aether_redux:blue_swet_jelly",
             "required": false
         },
         {
-            "id": "aethersdelight:moa_egg_omlette",
+            "id": "aether_redux:golden_swet_jelly",
             "required": false
         },
         {
-            "id": "aethersdelight:roast_moa",
+            "id": "aether_redux:vanilla_swet_jelly",
             "required": false
         }
     ]

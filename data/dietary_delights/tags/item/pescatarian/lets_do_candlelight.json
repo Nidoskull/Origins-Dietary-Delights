@@ -8,6 +8,10 @@
         {
             "id": "candlelight:salmon_wine",
             "required": false
+        },
+        {
+            "id": "candlelight:salmon_on_white_wine",
+            "required": false
         }
     ]
 }

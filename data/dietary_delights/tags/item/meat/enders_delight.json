@@ -8,6 +8,38 @@
         {
             "id": "endersdelight:crispy_skewer",
             "required": false
+        },
+        {
+            "id": "endersdelight:mite_crust",
+            "required": false
+        },
+        {
+            "id": "endersdelight:shulker_mollusk",
+            "required": false
+        },
+        {
+            "id": "endersdelight:crawling_sandwich",
+            "required": false
+        },
+        {
+            "id": "endersdelight:endermite_stew_wood",
+            "required": false
+        },
+        {
+            "id": "endersdelight:endermite_stew",
+            "required": false
+        },
+        {
+            "id": "endersdelight:ender_paella_wood",
+            "required": false
+        },
+        {
+            "id": "endersdelight:ender_paella",
+            "required": false
+        },
+        {
+            "id": "endersdelight:stuffed_shulker_bowl",
+            "required": false
         }
     ]
 }

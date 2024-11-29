@@ -2,11 +2,11 @@
     "replace": false,
     "values": [
         {
-            "id": "aether:skyroot_milk_bucket",
+            "id": "deep_aether:raw_aerglow_fish",
             "required": false
         },
         {
-            "id": "aether:healing_stone",
+            "id": "deep_aether:cooked_aerglow_fish",
             "required": false
         }
     ]

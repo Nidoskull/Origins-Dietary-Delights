@@ -1,65 +1,89 @@
 {
-    "replace": false,
-    "values": [
-        {
-            "id": "candlelight:tomato",
-            "required": false
-        },
-        {
-            "id": "candlelight:lettuce",
-            "required": false
-        },
-        {
-            "id": "candlelight:mozzarella",
-            "required": false
-        },
-        {
-            "id": "candlelight:tomato_soup",
-            "required": false
-        },
-        {
-            "id": "candlelight:mushroom_soup",
-            "required": false
-        },
-        {
-            "id": "candlelight:beetroot_salad",
-            "required": false
-        },
-        {
-            "id": "candlelight:pasta",
-            "required": false
-        },
-        {
-            "id": "candlelight:lettuce_salad",
-            "required": false
-        },
-        {
-            "id": "candlelight:chocolate",
-            "required": false
-        },
-        {
-            "id": "candlelight:pasta_raw",
-            "required": false
-        },
-        {
-            "id": "candlelight:pasta_lettuce",
-            "required": false
-        },
-        {
-            "id": "candlelight:pancake",
-            "required": false
-        },
-        {
-            "id": "candlelight:lettuce_tomato",
-            "required": false
-        },
-        {
-            "id": "candlelight:veggie_plate",
-            "required": false
-        },
-        {
-            "id": "candlelight:tomato_mozzarella_salad",
-            "required": false
-        }
+    "replace":false,
+    "values":[
+       {
+          "id":"candlelight:tomato",
+          "required":false
+       },
+       {
+          "id":"candlelight:lettuce",
+          "required":false
+       },
+       {
+          "id":"candlelight:mozzarella",
+          "required":false
+       },
+       {
+          "id":"candlelight:tomato_soup",
+          "required":false
+       },
+       {
+          "id":"candlelight:mushroom_soup",
+          "required":false
+       },
+       {
+          "id":"candlelight:beetroot_salad",
+          "required":false
+       },
+       {
+          "id":"candlelight:pasta",
+          "required":false
+       },
+       {
+          "id":"candlelight:lettuce_salad",
+          "required":false
+       },
+       {
+          "id":"candlelight:chocolate",
+          "required":false
+       },
+       {
+          "id":"candlelight:pasta_raw",
+          "required":false
+       },
+       {
+          "id":"candlelight:pasta_lettuce",
+          "required":false
+       },
+       {
+          "id":"candlelight:pancake",
+          "required":false
+       },
+       {
+          "id":"candlelight:lettuce_tomato",
+          "required":false
+       },
+       {
+          "id":"candlelight:veggie_plate",
+          "required":false
+       },
+       {
+          "id":"candlelight:tomato_mozzarella_salad",
+          "required":false
+       },
+       {
+          "id":"candlelight:pasta_with_mozzarella",
+          "required":false
+       },
+       {
+          "id":"candlelight:salad",
+          "required":false
+       },
+       {
+          "id":"candlelight:chocolate_mousse",
+          "required":false
+       },
+       {
+          "id":"candlelight:pasta_with_lettuce",
+          "required":false
+       },
+       {
+          "id":"candlelight:fresh_garden_salad",
+          "required":false
+       },
+       {
+          "id":"candlelight:harvest_plate",
+          "required":false
+       }
     ]
 }

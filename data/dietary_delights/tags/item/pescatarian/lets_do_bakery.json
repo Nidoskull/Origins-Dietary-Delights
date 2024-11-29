@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "bakery:grilled_salmon_sandwich",
+			"required": false
+		}
+	]
+}

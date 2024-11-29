@@ -24,6 +24,46 @@
         {
             "id": "candlelight:beef_wellington",
             "required": false
+        },
+        {
+            "id": "candlelight:beef_tartare",
+            "required": false
+        },
+        {
+            "id": "candlelight:beef_with_mushroom_in_wine_and_potatoes",
+            "required": false
+        },
+        {
+            "id": "candlelight:khinkali",
+            "required": false
+        },
+        {
+            "id": "candlelight:roastbeef_with_glazed_carrots",
+            "required": false
+        },
+        {
+            "id": "candlelight:roasted_lamb_with_lettuce",
+            "required": false
+        },
+        {
+            "id": "candlelight:tropical_fish_supreme",
+            "required": false
+        },
+        {
+            "id": "candlelight:fillet_steak",
+            "required": false
+        },
+        {
+            "id": "candlelight:salmon_on_white_wine",
+            "required": false
+        },
+        {
+            "id": "candlelight:chicken_alfredo",
+            "required": false
+        },
+        {
+            "id": "candlelight:lasagne",
+            "required": false
         }
     ]
 }

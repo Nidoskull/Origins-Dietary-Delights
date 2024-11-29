@@ -18,7 +18,23 @@
             "required": false
         },
         {
-            "id": "endersdelight:twisted_cereal",
+            "id": "endersdelight:strange_eclair",
+            "required": false
+        },
+        {
+            "id": "endersdelight:chorus_stew_wood",
+            "required": false
+        },
+        {
+            "id": "endersdelight:chorus_stew",
+            "required": false
+        },
+        {
+            "id": "endersdelight:pearl_pasta_wood",
+            "required": false
+        },
+        {
+            "id": "endersdelight:pearl_pasta",
             "required": false
         }
     ]

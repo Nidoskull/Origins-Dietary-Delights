@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "meadow:raw_buffalo_meat",
+			"required": false
+		},
+		{
+			"id": "meadow:cooked_buffalo_meat",
+			"required": false
+		},
+		{
+			"id": "meadow:sausage_with_cheese",
+			"required": false
+		}
+	]
+}

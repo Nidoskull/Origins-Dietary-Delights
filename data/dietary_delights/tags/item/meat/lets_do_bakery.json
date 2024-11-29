@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "bakery:sandwich",
+			"required": false
+		},
+		{
+			"id": "bakery:grilled_salmon_sandwich",
+			"required": false
+		},
+		{
+			"id": "bakery:grilled_bacon_sandwich",
+			"required": false
+		}
+	]
+}

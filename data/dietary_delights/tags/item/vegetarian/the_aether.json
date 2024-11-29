@@ -16,6 +16,14 @@
         {
             "id": "aether:skyroot_milk_bucket",
             "required": false
+        },
+        {
+            "id": "aether:gingerbread_man",
+            "required": false
+        },
+        {
+            "id": "aether:candy_cane",
+            "required": false
         }
     ]
 }

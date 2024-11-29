@@ -92,6 +92,58 @@
         {
             "id": "bakery:waffle",
             "required": false
+        },
+        {
+            "id": "bakery:cake_dough",
+            "required": false
+        },
+        {
+            "id": "bakery:chocolate_cake_slice",
+            "required": false
+        },
+        {
+            "id": "bakery:chocolate_gateau_slice",
+            "required": false
+        },
+        {
+            "id": "bakery:bundt_cake_slice",
+            "required": false
+        },
+        {
+            "id": "bakery:linzer_tart_slice",
+            "required": false
+        },
+        {
+            "id": "bakery:chocolate_tart_slice",
+            "required": false
+        },
+        {
+            "id": "bakery:pudding_slice",
+            "required": false
+        },
+        {
+            "id": "bakery:chocolate_glazed_cookie",
+            "required": false
+        },
+        {
+            "id": "bakery:strawberry_cupcake",
+            "required": false
+        },
+        {
+            "id": "bakery:sweetberry_cupcake",
+            "required": false
+        },
+        {
+            "id": "bakery:misslilitu_biscuit",
+            "required": false
+        },
+        {
+            "id": "bakery:chocolate_truffle",
+            "required": false
+        },
+        {
+            "id": "bakery:bread_with_jam",
+            "required": false
         }
     ]
 }
