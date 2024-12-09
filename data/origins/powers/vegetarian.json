@@ -1,7 +1,7 @@
 {
    "type":"origins:prevent_item_use",
    "item_condition":{
-      "type":"origins:and",
+      "type":"origins:all_of",
       "conditions":[
          {
             "type":"origins:food"
@@ -9,24 +9,22 @@
          {
             "type":"origins:ingredient",
             "ingredient":{
-               "tag":"origins:vegetarian"
-            },
-            "inverted":true
+               "tag":"origins:meat"
+            }
          },
          {
             "type":"origins:ingredient",
-            "ingredient":{
-               "tag":"origins:ignore_diet"
-            },
-            "inverted":true
-         },
-         {
-            "type":"origins:ingredient",
-            "ingredient":{
-               "tag":"c:egg"
-            },
+            "ingredient":[
+               {
+                  "tag":"origins:ignore_diet"
+               },
+               {
+                  "tag":"origins:vegetarian"
+               }
+            ],
             "inverted":true
          }
       ]
-   }
+   },
+   "loading_priority": 1
 }
