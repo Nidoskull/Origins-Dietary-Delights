@@ -1,0 +1,13 @@
+{
+    "replace":false,
+    "values":[
+       {
+          "id":"moredelight:omelette",
+          "required":false
+       },
+       {
+          "id":"moredelight:chicken_salad",
+          "required":false
+       }
+    ]
+}

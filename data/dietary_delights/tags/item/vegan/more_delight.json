@@ -1,0 +1,37 @@
+{
+   "replace":false,
+   "values":[
+      {
+         "id":"moredelight:diced_potatoes",
+         "required":false
+      },
+      {
+         "id":"moredelight:mashed_potatoes",
+         "required":false
+      },
+      {
+         "id":"moredelight:carrot_soup",
+         "required":false
+      },
+      {
+         "id":"moredelight:tomato_sandwich",
+         "required":false
+      },
+      {
+         "id":"moredelight:bread_slice",
+         "required":false
+      },
+      {
+         "id":"moredelight:toast",
+         "required":false
+      },
+      {
+         "id":"moredelight:toast_with_sweet_berries",
+         "required":false
+      },
+      {
+         "id":"moredelight:toast_with_glow_berries",
+         "required":false
+      }
+   ]
+}
