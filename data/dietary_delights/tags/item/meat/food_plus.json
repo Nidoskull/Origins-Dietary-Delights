@@ -62,7 +62,47 @@
             "required": false
         },
         {
+            "id": "foodplusid:baked_flesh",
+            "required": false
+        },
+        {
+            "id": "foodplusid:raw_frog_leg",
+            "required": false
+        },
+        {
+            "id": "foodplusid:cooked_frog_leg",
+            "required": false
+        },
+        {
             "id": "foodplusid:awful_stew",
+            "required": false
+        },
+        {
+            "id": "foodplusid:raw_stride",
+            "required": false
+        },
+        {
+            "id": "foodplusid:cooked_stride",
+            "required": false
+        },
+        {
+            "id": "foodplusid:raw_sniffer_meat",
+            "required": false
+        },
+        {
+            "id": "foodplusid:cooked_sniffer_meat",
+            "required": false
+        },
+        {
+            "id": "foodplusid:bat_wing",
+            "required": false
+        },
+        {
+            "id": "foodplusid:cooked_bat_wing",
+            "required": false
+        },
+        {
+            "id": "foodplusid:tolchonka",
             "required": false
         }
     ]

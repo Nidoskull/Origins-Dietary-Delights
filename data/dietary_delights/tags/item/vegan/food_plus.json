@@ -1,0 +1,217 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "foodplusid:gold_beetroot",
+            "required": false
+        },
+        {
+            "id": "foodplusid:gold_potato",
+            "required": false
+        },
+        {
+            "id": "foodplusid:vegetable_salad",
+            "required": false
+        },
+        {
+            "id": "foodplusid:apple_pie",
+            "required": false
+        },
+        {
+            "id": "foodplusid:carrot_pie",
+            "required": false
+        },
+        {
+            "id": "foodplusid:sweet_berries_pie",
+            "required": false
+        },
+        {
+            "id": "foodplusid:glow_berries_pie",
+            "required": false
+        },
+        {
+            "id": "foodplusid:pumpkin_soup",
+            "required": false
+        },
+        {
+            "id": "foodplusid:varenie",
+            "required": false
+        },
+        {
+            "id": "foodplusid:glow_varenie",
+            "required": false
+        },
+        {
+            "id": "foodplusid:apple_juice",
+            "required": false
+        },
+        {
+            "id": "foodplusid:beetroot_juice",
+            "required": false
+        },
+        {
+            "id": "foodplusid:carrot_juice",
+            "required": false
+        },
+        {
+            "id": "foodplusid:glow_berries_juice",
+            "required": false
+        },
+        {
+            "id": "foodplusid:melon_juice",
+            "required": false
+        },
+        {
+            "id": "foodplusid:sweet_berries_juice",
+            "required": false
+        },
+        {
+            "id": "foodplusid:berry_cookie",
+            "required": false
+        },
+        {
+            "id": "foodplusid:glow_berrie_cookie",
+            "required": false
+        },
+        {
+            "id": "foodplusid:beetroot_cookie",
+            "required": false
+        },
+        {
+            "id": "foodplusid:carrot_cookie",
+            "required": false
+        },
+        {
+            "id": "foodplusid:caramel",
+            "required": false
+        },
+        {
+            "id": "foodplusid:black_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:blue_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:brown_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:cyan_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:gray_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:green_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:light_blue_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:light_gray_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:lime_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:megenta_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:orange_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:pink_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:purple_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:red_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:white_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:yellow_candy",
+            "required": false
+        },
+        {
+            "id": "foodplusid:ad_soup",
+            "required": false
+        },
+        {
+            "id": "foodplusid:fried_pumpkin_seed",
+            "required": false
+        },
+        {
+            "id": "foodplusid:fried_mushroom1",
+            "required": false
+        },
+        {
+            "id": "foodplusid:fried_mushroom2",
+            "required": false
+        },
+        {
+            "id": "foodplusid:lichen",
+            "required": false
+        },
+        {
+            "id": "foodplusid:lichen_bread",
+            "required": false
+        },
+        {
+            "id": "foodplusid:milled_lichen",
+            "required": false
+        },
+        {
+            "id": "foodplusid:sea_salad",
+            "required": false
+        },
+        {
+            "id": "foodplusid:sunflower_seeds",
+            "required": false
+        },
+        {
+            "id": "foodplusid:fried_sunflower_seeds",
+            "required": false
+        },
+        {
+            "id": "foodplusid:carrot_bread",
+            "required": false
+        },
+        {
+            "id": "foodplusid:potato_bread",
+            "required": false
+        },
+        {
+            "id": "foodplusid:beet_bread",
+            "required": false
+        },
+        {
+            "id": "foodplusid:root",
+            "required": false
+        },
+        {
+            "id": "foodplusid:turnip",
+            "required": false
+        },
+        {
+            "id": "foodplusid:golden_turnip",
+            "required": false
+        }
+    ]
+}

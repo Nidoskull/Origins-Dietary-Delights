@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "foodplusid:fish_salad",
+            "required": false
+        },
+        {
+            "id": "foodplusid:salmon_salad",
+            "required": false
+        },
+        {
+            "id": "foodplusid:fish_sandwich",
+            "required": false
+        },
+        {
+            "id": "foodplusid:salmon_sandwich",
+            "required": false
+        },
+        {
+            "id": "foodplusid:sea_salad",
+            "required": false
+        }
+    ]
+}

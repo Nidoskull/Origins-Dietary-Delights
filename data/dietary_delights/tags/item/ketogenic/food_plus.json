@@ -1,0 +1,89 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "foodplusid:vegetable_salad",
+            "required": false
+        },
+        {
+            "id": "foodplusid:pumpkin_soup",
+            "required": false
+        },
+        {
+            "id": "foodplusid:varenie",
+            "required": false
+        },
+        {
+            "id": "foodplusid:glow_varenie",
+            "required": false
+        },
+        {
+            "id": "foodplusid:fried_pumpkin_seed",
+            "required": false
+        },
+        {
+            "id": "foodplusid:fried_mushroom1",
+            "required": false
+        },
+        {
+            "id": "foodplusid:fried_mushroom2",
+            "required": false
+        },
+        {
+            "id": "foodplusid:lichen",
+            "required": false
+        },
+        {
+            "id": "foodplusid:lichen_bread",
+            "required": false
+        },
+        {
+            "id": "foodplusid:milled_lichen",
+            "required": false
+        },
+        {
+            "id": "foodplusid:sea_salad",
+            "required": false
+        },
+        {
+            "id": "foodplusid:sunflower_seeds",
+            "required": false
+        },
+        {
+            "id": "foodplusid:fried_sunflower_seeds",
+            "required": false
+        },
+        {
+            "id": "foodplusid:carrot_bread",
+            "required": false
+        },
+        {
+            "id": "foodplusid:potato_bread",
+            "required": false
+        },
+        {
+            "id": "foodplusid:beet_bread",
+            "required": false
+        },
+        {
+            "id": "foodplusid:root",
+            "required": false
+        },
+        {
+            "id": "foodplusid:medovik",
+            "required": false
+        },
+        {
+            "id": "foodplusid:medovik_slice",
+            "required": false
+        },
+        {
+            "id": "foodplusid:turnip",
+            "required": false
+        },
+        {
+            "id": "foodplusid:golden_turnip",
+            "required": false
+        }
+    ]
+}
