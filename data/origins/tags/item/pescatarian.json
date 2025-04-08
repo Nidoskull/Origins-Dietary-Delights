@@ -1,6 +1,6 @@
 {
-    "replace": false,
-    "values": [
+   "replace":false,
+   "values":[
       "#dietary_delights:pescatarian/aether_delight",
       "#dietary_delights:pescatarian/alaska_native_craft",
       "#dietary_delights:pescatarian/aquaculture_delight",
@@ -9,7 +9,7 @@
       "#dietary_delights:pescatarian/born_in_chaos",
       "#dietary_delights:pescatarian/bountiful_fares",
       "#dietary_delights:pescatarian/brewin_and_chewin",
-"#dietary_delights:pescatarian/critters_and_companions",
+      "#dietary_delights:pescatarian/critters_and_companions",
       "#dietary_delights:pescatarian/deep_aether",
       "#dietary_delights:pescatarian/delightful",
       "#dietary_delights:pescatarian/ecologics",
@@ -30,5 +30,5 @@
       "#dietary_delights:pescatarian/unusual_fish_mod",
       "#dietary_delights:pescatarian/vampires_delight",
       "#dietary_delights:pescatarian/wildlife"
-    ]
-  }
+   ]
+}
