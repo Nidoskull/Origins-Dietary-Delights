@@ -1,0 +1,9 @@
+{
+   "replace":false,
+   "values":[
+      {
+         "id":"crittersandcompanions:koi_fish",
+         "required":false
+      }
+   ]
+}
