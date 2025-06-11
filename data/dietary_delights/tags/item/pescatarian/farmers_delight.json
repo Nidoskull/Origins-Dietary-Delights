@@ -44,6 +44,18 @@
         {
             "id": "farmersdelight:grilled_salmon",
             "required": false
+        },
+        {
+            "id": "farmersdelight:bone_broth",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:squid_ink_pasta",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:black_cod",
+            "required": false
         }
     ]
 }

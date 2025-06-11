@@ -1,0 +1,49 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "crabbersdelight:stuffed_nautilus_shell",
+            "required": false
+        },
+        {
+            "id": "crabbersdelight:frog_leg_kebob",
+            "required": false
+        },
+        {
+            "id": "crabbersdelight:squid_kebob",
+            "required": false
+        },
+        {
+            "id": "crabbersdelight:shrimp_skewer",
+            "required": false
+        },
+        {
+            "id": "crabbersdelight:fish_stick",
+            "required": false
+        },
+        {
+            "id": "crabbersdelight:surf_and_turf",
+            "required": false
+        },
+        {
+            "id": "crabbersdelight:crab_cakes",
+            "required": false
+        },
+        {
+            "id": "crabbersdelight:bisque",
+            "required": false
+        },
+        {
+            "id": "crabbersdelight:seafood_gumbo",
+            "required": false
+        },
+        {
+            "id": "crabbersdelight:clam_chowder",
+            "required": false
+        },
+        {
+            "id": "crabbersdelight:shrimp_fried_rice",
+            "required": false
+        }
+    ]
+}

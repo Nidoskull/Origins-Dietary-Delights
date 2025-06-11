@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "crabbersdelight:jar_of_pickles",
+            "required": false
+        },
+        {
+            "id": "crabbersdelight:kelp_shake",
+            "required": false
+        },
+        {
+            "id": "crabbersdelight:sea_pickle_juice ",
+            "required": false
+        }
+    ]
+}

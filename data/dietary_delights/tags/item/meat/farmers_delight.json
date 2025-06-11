@@ -92,6 +92,10 @@
       {
          "id":"farmersdelight:hamburger",
          "required":false
+      },
+      {
+         "id":"farmersdelight:shepherds_pie",
+         "required":false
       }
    ]
 }
