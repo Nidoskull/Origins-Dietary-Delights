@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values": [
+       {
+          "id": "aetherdelight:bowl_of_blue_berries",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:bowl_of_enchanted_berries",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:ambrosia_glazed_apple",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:blueberry_pie_slice",
+          "required": false
+       },
+       {
+          "id": "aetherdelight:enchanted_pie_slice",
+          "required": false
+       }
+    ]
+}

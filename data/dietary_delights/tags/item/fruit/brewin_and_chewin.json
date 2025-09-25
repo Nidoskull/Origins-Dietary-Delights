@@ -1,0 +1,29 @@
+{
+	"replace": false,
+	"values": [
+        {
+            "id": "brewinandchewin:mead",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:saccharine_rum",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:salty_folly",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:glittering_grenadine",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:bloody_mary",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:red_rum",
+            "required": false
+        }
+	]
+}

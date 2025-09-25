@@ -1,0 +1,25 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "alaskanativecraft:blueberries",
+			"required": false
+		},
+		{
+			"id": "alaskanativecraft:cloudberries",
+			"required": false
+		},
+		{
+			"id": "alaskanativecraft:raspberries",
+			"required": false
+		},
+		{
+			"id": "alaskanativecraft:salmonberries",
+			"required": false
+		},
+		{
+			"id": "alaskanativecraft:akutaq",
+			"required": false
+		}
+	]
+}
